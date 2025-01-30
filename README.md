@@ -18,20 +18,14 @@ This mod is designed to supplement and improve upon [Warnymph](https://www.moddb
 War Nymph (see above). Place above LASS in Mod Organizer 2.
 
 LASS
--001 Sister of the Zone - Player leg and body models
--002 Arms of the Sister - Player arm and hand models
--003 Sounds of the Sister - Sounds and script files
--004A Voices of the Sister - Ukranian Player Voice
--004B Voices of the Sister - English Player Voice
--005 Dialogue of the Sister - Text edits for female player gender
+
+<ul><li>001 Sister of the Zone - Player leg and body models</li><li>002 Arms of the Sister - Player arm and hand models</li><li>003 Sounds of the Sister - Sounds and script files</li><li>004A Voices of the Sister - Ukranian Player Voice</li><li>004B Voices of the Sister - English Player Voice</li><li>005 Dialogue of the Sister - Text edits for female player gender</li><ul>
 
 Highly recommend checking all of the above, except choose either 004A (for Ukranian voice acting), or 004B (for English voice acting).
 
 ### Optional
 
-Estradiol Valerate - Adds estrogen as a psyblock item
-No muffled audio for masks - Self explanatory, the audio while wearing a mask is not muffled.
-Paint's Black Fingernails - A small handful of outfits have open-fingered gloves, check this option if you want black-painted fingernails. Check the [LASS post on discord](https://discord.com/channels/912320241713958912/1112579306309292072/1210386464769183775) for a guide on editing your fingernails to be whatever color or design you like.
+<ul><li>Estradiol Valerate - Adds estrogen as a psyblock item</li><li>No muffled audio for masks - Self explanatory, the audio while wearing a mask is not muffled</li><li>Paint's Black Fingernails - A small handful of outfits have open-fingered gloves, check this option if you want black-painted fingernails. Check the [LASS post on discord](https://discord.com/channels/912320241713958912/1112579306309292072/1210386464769183775) for a guide on editing your fingernails to be whatever color or design you like.</li><ul>
 
 --- --- ---
 ## Credits
@@ -42,8 +36,4 @@ The great voice acting provided by [Tetiana Voloshyna](https://voice123.com/voic
 
 ### Community Update Team
 
--Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models
--Cat lover for commissioning the aforementioned voice acting out of his own pocket, as well as additional female portraits
--pancake for supplementing missing sound effects with AI-generated ones and providing an AI-generated Russian language option
--folk for extensive dialogue edits to support female-gendered dialogue
--TheDjinni for organizing and pushing the update alongside minor bugfixes.
+<ul><li>Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models</li><li>Cat lover for commissioning the aforementioned voice acting out of his own pocket, as well as additional female portraits</li><li>pancake for supplementing missing sound effects with AI-generated ones and providing an AI-generated Russian language option</li><li>folk for extensive dialogue edits to support female-gendered dialogue</li><li>TheDjinni for organizing and pushing the update alongside minor bugfixes.</li><ul>
