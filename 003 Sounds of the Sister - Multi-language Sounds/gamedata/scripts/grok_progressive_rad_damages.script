@@ -19,6 +19,7 @@ function actor_on_update()
         local reduced_power = max_power * power_dif 
 		if reduced_power <= max_power * 0.15 then
 			reduced_power =  max_power * 0.15
+		end
         if db.actor.power > reduced_power then
             db.actor.power = reduced_power
         end
