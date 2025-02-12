@@ -1,68 +1,54 @@
 <?xml version="1.0" encoding="windows-1251"?>
+
 <string_table>
 
 <!-- Mechanic -->
 	<string id="dasc_tech_mlr_task_1_name">
-		<text>Find %s for Polymer</text>
+		<text>Find %s for Loner Mechanic in Darkscape</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_text">
-		<text>Polymer has asked me to fetch him %s</text>
+		<text>The technician at the sawmill has asked me to fetch him %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_about">
-		<text>Out of all places, you thought that coming here asking for work was a good idea? Hah, don't get me wrong - I'm just messing with you. It's nice to meet you, my name is Polymer, and yeah... I actually have some work you could help me with.\n \nAs you may have noticed, the Darkscape isn't exactly the safest spot here in the south, which is why my pal Cutter and I have made this old sawmill our humble home. It's not so bad; we often get visits from stalkers coming from the Cordon, either to get their gear repaired or to see what Cutter has for sale.\n
-		
-		\nBut even so, I could really use some help. No one who’s come through here has ever brought back anything useful for me. How about you bring me some basic tools? They’d make a huge difference in keeping our gear in working order around here.</text>
+		<text>As you already understand, the wilderness here is utterly unreal. Although this is a former sawmill, nothing is left but the logs. I could use some kits to work with. If you can find basic ones, please bring them here.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_fetch_about">
-		<text>Out of all places, you thought that coming here asking for work was a good idea? Hah, don't get me wrong - I'm just messing with you. It's nice to meet you, my name is Polymer, and yeah... I actually have some work you could help me with.\n \nAs you may have noticed, the Darkscape isn't exactly the safest spot here in the south, which is why my pal Cutter and I have made this old sawmill our humble home. It's not so bad; we often get visits from stalkers coming from the Cordon, either to get their gear repaired or to see what Cutter has for sale.\n
-		
-		\nBut even so, I could really use some help. No one who’s come through here has ever brought back anything useful for me. How about you bring me some basic tools? They’d make a huge difference in keeping our gear in working order around here.</text>
+		<text>As you already understand, the wilderness here is utterly unreal. Although this is a former sawmill, nothing is left but the logs. I could use some kits to work with. If you can find basic ones, please bring them here.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_fetch_finish">
-		<text>Damn! You really pulled it off, lady! Here - might not be the biggest payout, but it's something to cover your effort. You've earned it. Stick around for a bit if you're feeling wiped out.\nMe and Cutter keep this place safe from mutants, so you can catch your breath or grab a nap without worrying about something sneaking up on you.\nAfter hauling those tools all this way, you've more than earned a bit of peace.</text>
+		<text>Thanks. Things are going to be much easier with these. Keep this artefact.</text>
 	</string>
 
 	<string id="dasc_tech_mlr_task_2_name">
-		<text>Find %s for Polymer</text>
+		<text>Find %s for Loner Mechanic in Darkscape</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_text">
-		<text>Polymer has asked me to fetch him %s</text>
+		<text>The technician at the sawmill has asked me to fetch him %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_about">
-		<text>You know what's great about this place? It's quiet, and if you find a good spot to set up a base - like this sawmill - you've got nothing to fear. It's a luxury being here, really. You've got everything: space, a roof to keep you dry on those cold, rainy days, some beds, a warm bonfire, and most importantly, a beautiful view to wake up to every morning...\n
-		
-		\nOh? Ahem, yeah, sorry about that… uh, anyway. The tools you brought last time really did their job, but now I could use some advanced tools. I don't know if it's too much to ask, but if you ever come across some, would you bring them my way? You've already made a big difference with the basic ones - but, heh, you know… having more wouldn't hurt.</text>
+		<text>Since you've already found one set of tools, do you happen to know where some more advanced ones are? I desperately need them.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_fetch_about">
-		<text>You know what's great about this place? It's quiet, and if you find a good spot to set up a base - like this sawmill - you've got nothing to fear. It's a luxury being here, really. You've got everything: space, a roof to keep you dry on those cold, rainy days, some beds, a warm bonfire, and most importantly, a beautiful view to wake up to every morning...\n
-		
-		\nOh? Ahem, yeah, sorry about that… uh, anyway. The tools you brought last time really did their job, but now I could use some advanced tools. I don't know if it's too much to ask, but if you ever come across some, would you bring them my way? You've already made a big difference with the basic ones - but, heh, you know… having more wouldn't hurt.</text>
+		<text>Since you've already found one set of tools, do you happen to know where some more advanced ones are? I desperately need them.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_fetch_finish">
-		<text>You've really outdone yourself, lady. At this rate, I'll turn this sawmill into a proper fortress, safe from mutants and bandits alike. Hell, maybe even the Zone itself will think twice before messing with us. Oh, and don't even try to refuse - there's no way you're leaving without your payment. Anytime you need something fixed, just swing by, and I'll give you a solid discount.\n \nIt's rare to find someone dependable out here, you know? Not many stalkers care about what happens in the Darkscape, usually it's just a place to hide when you've got a bounty on your head... but it feels good to see more stalkers like you keeping the Zone from swallowing us whole.</text>
+		<text>Thank you, thank you. Here's a small discount.</text>
 	</string>
 
 	<string id="dasc_tech_mlr_task_3_name">
-		<text>Find %s for Polymer</text>
+		<text>Find %s for Loner Mechanic in Darkscape</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_text">
-		<text>Polymer has asked me to fetch him %s</text>
+		<text>The technician at the sawmill has asked me to fetch him %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_about">
-		<text>Alright, I know this might sound a bit annoying, but those tools you brought me before - they're still working fine, don't get me wrong - but they've got me feeling a little... ambitious. You see where I'm going with this, right? Heh, I thought so.
-		
-		\nDo me this one last favor, will you? I need some expert tools. I don't care how or where you get them, as long as you can tell they're the real deal - more intricate-looking than the advanced ones. Bring them back to me, and I swear, you'll make me the happiest mechanic in the Zone. I mean it, girl!</text>
+		<text>I understand that it might be too much to ask for in this godforsaken place, but maybe you could help me in finding a third, more complex kit? An expert's kit will do just fine.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_fetch_about">
-		<text>Alright, I know this might sound a bit annoying, but those tools you brought me before - they're still working fine, don't get me wrong - but they've got me feeling a little... ambitious. You see where I'm going with this, right? Heh, I thought so.
-		
-		\nDo me this one last favor, will you? I need some expert tools. I don't care how or where you get them, as long as you can tell they're the real deal - more intricate-looking than the advanced ones. Bring them back to me, and I swear, you'll make me the happiest mechanic in the Zone. I mean it, girl!</text>
+		<text>I understand that it might be too much to ask for in this godforsaken place, but maybe you could help me in finding a third, more complex kit? An expert's kit will do just fine.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_fetch_finish">
-		<text>Damn, you really came through, didn't you? This is exactly what I needed. Can't even begin to explain how much this means, gal. You've made things easier around here, we'll be in good shape now. Proper nights with a working radio and some vodka to get the guys talking.\nCutter's already planning to invite the guys from the Cordon, and even those hanging around the flea market. It's been a while since we had a good gathering like that.\n
-		
-		\nAs for you, here's your payment. I can't give you a whole lot more right now, but that's not the point. You've done a lot for us already. And listen, you're always welcome here. This sawmill's yours as long as you need it. You need repairs? I got your back, and I'll make sure you get the best deal I can. You've earned my trust with that effort, and trust's about the only thing that means anything in the Zone.</text>
+		<text>Thank you for everything. Perhaps this wretched place will turn into a fully fledged camp someday.</text>
 	</string>
-
 
 </string_table>

@@ -68,7 +68,7 @@
 		<text>Monolith forces keep breaking through our blockade. I want to take the fight to them for once. I've recruited an assault squad and want you to lead them in an invasion on Monolith territory. Take them out.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
-		<text>Girl, you've got a set on you. Great job.</text>
+		<text>Lady, you've got guts. Great job.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -177,10 +177,10 @@
 		<text>A Freedom member has converted to the Monolith. Lukash has tasked me with finding and killing him.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
-		<text>I've got some real heavy news, girl. One of our Freedom fighters has fallen under the influence of the Monolith. He was a good man, and I know he wouldn't have wanted to continue living as some alien crystal's brainwashed killer. Please, find him and take him down. Otherwise, his old friends are going to have to do it.</text>
+		<text>I've got some real heavy news, lady. One of our Freedom fighters has fallen under the influence of the Monolith. He was a good man, and I know he wouldn't have wanted to continue living as some alien crystal's brainwashed killer. Please, find him and take him down. Otherwise, his old friends are going to have to do it.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
-		<text>It's done? Good. I know this was rough. Our brothers at the Barrier will drink to their fallen comrade. As for you, here's your payment.</text>
+		<text>It's done? Good. I know this was rough. Our brethren at the Barrier will drink to their fallen comrade. As for you, here's your payment.</text>
 	</string>
 
 
@@ -230,12 +230,12 @@
 		<text>Well, right now, we're stuck in a hammer and anvil situation. Y'know, zealots to the north, extremists to the south, and sprinkle in some military goons for good measure. How about you explain to them what we think of their edicts and commands the old-fashioned way? After you've finished humiliating them, bring me %ses as trophies. There'll be a sweet reward at the end for you, don't worry.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
-		<text>Hey, nice job, girl. Here's your money.</text>
+		<text>Hey, nice job, lady. Here's your money.</text>
 	</string>
 	
 	<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
-		<text>Hey girl. Here's a thing. Remember those Sin folks? They didn't get the memo the last time you kicked their collective asses, so I think it's high time for an encore. Loki said they've been spotted being unruly in Zaton, especially around the area of abandoned substation workshops. Go put them down.</text>
+		<text>Hey lady. Here's a thing. Remember those Sin folks? They didn't get the memo the last time you kicked their collective asses, so I think it's high time for an encore. Loki said they've been spotted being unruly in Zaton, especially around the area of abandoned substation workshops. Go put them down.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
 		<text>Some of the newer stalkers among Freedom are starting to think you're the Second Coming of Rambo. That you keep coming back alive and well from jobs like this makes me think they may be onto something. So here. A little something for our Rambo.</text>
@@ -255,7 +255,7 @@
 		<text>Fine work. Time to grease this guy's nuts for his knowledge.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
-		<text>Hey girl, stop! I'm the Freedom spy! Sorry for taking potshots at you. I had to keep my cover just in case...luckily you made it. If you bring me to Army Warehouses safely, Lukash will reward you well. Lead the way, I'll follow!</text>
+		<text>Hey lady, stop! I'm the Freedom spy! Sorry for taking potshots at you. I had to keep my cover just in case...luckily you made it. If you bring me to Army Warehouses safely, Lukash will reward you well. Lead the way, I'll follow!</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
 		<text>Thanks for pulling my nuts out of the fire, stalker! See you around!</text>
@@ -320,7 +320,7 @@
 		<text>Sleep has been a little harder around camp lately. Each night we hear screaming, but before we can do anything about it, yet another one of our men on the road gets swallowed by the darkness. We find their mangled remains strewn about the Bloodsucker Village the next day.\n \nLukash thinks a rare breed of bloodsucker may be in town. A darker, stronger, more vicious motherfucker that only comes out at night. A few of our war-dogs think we should cease night hikes until it migrates and hopefully starts messing up Duty instead, believing it's too risky for us to go after it directly.\n \nWell, I say if you've got the stones to wait for it in the Village after nightfall, I'd be thrilled to shower you in roubles for killing the bastard, and the rest of the lads around here will be grateful to get a good night's sleep again. Or at least as good as sleep gets this close to the Brain Scorcher. </text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
-		<text>Wow, you actually did it! You lunatic. I'll let the camp know the good news. Glad we have a huntress like you around.</text>
+		<text>Wow, you actually did it! You lunatic. I'll let the camp know the good news. Glad we have a hunter like you around.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -332,7 +332,7 @@
 		<text>Skinflint needs %s to help keep Freedom's medic stocked. I've agreed to help him.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
-		<text>Hey girl. Some of our guys can get a bit too adventurous from time to time. We haven't got enough supplies to treat all of 'em.</text>
+		<text>Hey lady. Some of our guys can get a bit too adventurous from time to time. We haven't got enough supplies to treat all of 'em.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_about">
 		<text>Yeah. You know how rough and tumble life can be in Freedom, right? Dodging bullets and fighting fanatics is just part of the daily life around here. As badass as it makes Freedom's fighters feel, it also means we're getting short on meds. Since Solid is too high off his ass to organize medical supplies, that responsibility now falls to me. If you can help out by bringing in some %s, you'd have Freedom's gratitude. And some of my roubles. </text>
@@ -343,10 +343,10 @@
 	
 	
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
-		<text>Amass Artefact Hunting Equipment</text>
+		<text>Amass Equipment for Freedom Infiltration</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
-		<text>Well, there is something important that needs looking at. Here's the thing: short of risking our luck in Belarus, there are precisely two scientific bunkers that Freedom can contact for anomaly-diving supplies. No more, no less. One is sandwiched between Duty thugs, military goons, and who knows what else. The other is a light jog away from Pripyat. And both...are sponsored by the very government we fight against. We need to start stockpiling new artefact hunting equipment NOW in case either of those places suddenly becomes cut off from our runners. I need you to begin gathering Bear detectors and artefact containers wholesale. I understand everything I'm requesting will take a while to obtain. Don't fret, your payment will be adequate. If you go the extra mile and get some batteries, you'll even get a bonus, too. So, you in?</text>
+		<text>Well, there is something important that needs looking at. A special infiltration mission to Rostok is planned, I must keep the details secret sorry. We need some equipment to perfect the disguise of our special operatives in order for them to blend in perfectly. We need 5.45x39 HP rounds, about 10 full boxes, so that they can defend themselves against mutants on the road to Rostok without alerting the checkpoint guards. If things go south our men will need some army grade medical supplies as well, 5 complete army medkits should do. Don't fret, your payment will be adequate. If you go the extra mile and get some cocaine and some porn mags, you'll even get a bonus, this should help our operatives to bribe some Duty members to accomplish their mission. So, you in?</text>
 	</string>
 	
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -378,7 +378,7 @@
 		<text>Good! Once you find some %s, I can finally get the ball rolling around here.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
-		<text>Thanks, girl! I knew there was a reason I asked you. You look like a girl who can get shit done.</text>
+		<text>Thanks, lady! I knew there was a reason I asked you. You look like a girl who can get shit done.</text>
 	</string>
 
 
@@ -396,7 +396,7 @@
 		<text>Thanks. If you manage to come through for me on this, I'll be able to perform more intricate upgrades on your equipment in future, too.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
-		<text>You keep this shit up, everyone around here is going to love you. Thanks again, girl.</text>
+		<text>You keep this shit up, everyone around here is going to love you. Thanks again, lady.</text>
 	</string>
 
 
@@ -413,7 +413,7 @@
 		<text>Ha! You absolute mad bitch! Well, go on then. Once you're back with some expert tools, I will show you what a talented mechanic can do.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
-		<text>Girl, Freedom's gonna love this. Shotguns with parachutes! Armoured SMGs! I'll make it happen! Here's your cash, for a job well done.</text>
+		<text>Lady, Freedom's gonna love this. Shotguns with parachutes! Armoured SMGs! I'll make it happen! Here's your cash, for a job well done.</text>
 	</string>
 	
 	
@@ -490,7 +490,7 @@
 	</string>
 	
 	<string id="barrier_defense_zombie_chatter_1">
-		<text>Poor things... no one deserves such fate...</text>
+		<text>Poor things...</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_2">
 		<text>I'll pass, just doesn't feel right.</text>
@@ -502,13 +502,13 @@
 		<text>This better be worth it, last time I spent more bullets than what I got in return.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_5">
-		<text>Ugh! I'm in the Garbage, I will get there when it's all over already. Wanted to test my new mosin.</text>
+		<text>Damn! I'm too far, I'd get there when it's all over already. Wanted to test my new rifle.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_6">
-		<text>What?! No way that will happen... my best friend went to Radar just a week ago without me! Gosha you fool, DAMN IT!!!</text>
+		<text>Zombies from the Radar? Damn... my friend went there just a few days ago.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_7">
-		<text>Hey! Mind if scavenge the bodies after the fight is over?</text>
+		<text>Can I keep what I find on the bodies?</text>
 	</string>
 	
 	

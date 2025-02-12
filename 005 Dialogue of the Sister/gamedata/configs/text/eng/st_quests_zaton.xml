@@ -180,7 +180,7 @@
 		<text>Vector wants you to go inside Jupiter Underground, and eliminate the monolith squad hiding in there.</text>
 	</string>
 	<string id="drx_sl_zat_stancia_trader_merc_task_2_about">
-		<text>Bad news, and this time it's the fucking monolith. The underground network between Jupiter and Outskirts has been used for while by our squads. That's how we carry operations inside the Outskirts of Pripyat while avoiding contact with the fanatics above. But just when you thought that business is good, the last mercs who went there have been ambushed by a monolith squad out of no where, as if the mutants are not enough already. I need a brave girl like you to get rid of them and secure the passage. We can't let them lurk there.</text>
+		<text>Bad news, and this time it's the fucking monolith. The underground network between Jupiter and Outskirts has been used for while by our squads. That's how we carry operations inside the Outskirts of Pripyat while avoiding contact with the fanatics above. But just when you thought that business is good, the last mercs who went there have been ambushed by a monolith squad out of no where, as if the mutants are not enough already. I need a brave lady like you to get rid of them and secure the passage. We can't let them lurk there.</text>
 	</string>
 	<string id="drx_sl_zat_stancia_trader_merc_task_2_finish">
 		<text>Splendid work! We are back to business. Here, for your trouble.</text>
@@ -212,7 +212,7 @@
 		<text>Shh... Listen, hear that? Some mutants howling. Still gives me the chills after all this time. How about you go out there and take care of them? I'll make it worth your while.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_finish">
-		<text>Haha! Well done, sister! Have a drink on Beard!</text>
+		<text>Haha! Well done, stalker! Have a drink on Beard!</text>
 	</string>
 
 
@@ -230,7 +230,7 @@
 		<text>I'm looking for the "%s" artefact. You ever seen one? If you can find it, I'll make sure you're well paid.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_finish">
-		<text>Good hunting, sister! Have a drink on the house!</text>
+		<text>Good hunting, stalker! Have a drink on the house!</text>
 	</string>
 
 
@@ -383,7 +383,7 @@
 		<text>Listen - let's finish our job, shall we? I need calibration tools to make sure that no scumbag escapes us.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_fetch_finish">
-		<text>Oh, fuck... You are the hope of every technician! Well done indeed... I'll be doubling your discount.</text>
+		<text>Oh, fuck... You are the hero of every technician! Well done indeed... I'll be doubling your discount.</text>
 	</string>
 
 <!-- Axel (Loner Medic) -->
@@ -401,5 +401,52 @@
 	</string>
 	<string id="zat_b22_stalker_medic_task_1_fetch_finish">
 		<text>Great job! I own you big time.</text>
+	</string>
+	
+	<!-- zat_tech_mlr_mechanic -->
+	<string id="zat_tech_mlr_task_1_name">
+		<text>Find %s for Spleen</text>
+	</string>
+	<string id="zat_tech_mlr_task_1_text">
+		<text>%s are required by Spleen to install basic equipment upgrades. You should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_tech_mlr_task_1_about">
+		<text>The stalkers that come through here always need upgrades and repairs, but I need some new equipment if I want to keep helping.</text>
+	</string>
+	<string id="zat_tech_mlr_task_1_fetch_about">
+		<text>A set of basic tools is the first thing I need if I want to keep doing business here.</text>
+	</string>
+	<string id="zat_tech_mlr_task_1_fetch_finish">
+		<text>Great, stalker. You brought exactly what I've asked. Thanks.</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_name">
+		<text>Find %s for Spleen</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_text">
+		<text>%s are required by Spleen to install advanced equipment upgrades. You should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_about">
+		<text>The stalkers that come through here always need upgrades and repairs, but I need some new equipment if I want to keep helping.</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_fetch_about">
+		<text>A set of advanced tools is the second thing I need if I want to keep doing business here.</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_fetch_finish">
+		<text>Great, stalker. You brought exactly what I've asked. Thanks</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_name">
+		<text>Find %s for Spleen</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_text">
+		<text>%s are required by Spleen to install expert equipment upgrades. You should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_about">
+		<text>The stalkers that come through here always need upgrades and repairs, but I need some new equipment if I want to keep helping.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_fetch_about">
+		<text>A set of expert tools is the last thing I need to make sure all the stalkers here that need help will get it.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_fetch_finish">
+		<text>Great, stalker. You brought exactly what I've asked. Thanks</text>
 	</string>
 </string_table>

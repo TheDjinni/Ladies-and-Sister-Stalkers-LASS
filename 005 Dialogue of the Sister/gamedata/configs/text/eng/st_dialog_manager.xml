@@ -56,9 +56,7 @@
 		<text>Alright. Now, what do I do to make money?</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>If you want to make a good amount of money, I know some important contacts who need help with certain jobs. Handle me your PDA and I will mark them for you.\n
-		
-		\nThere... If you ever struggle to earn some cash, you can meet with each of them and perform the jobs they assign you. They pay properly and require ambitious stalkers like you who can get shit done. Just keep in mind that I am sending you on my behalf, and if you really consider visiting them for some work, you better not disappoint them.</text>
+		<text>Here, give me your PDA...there. If you ever find yourself struggling for work, or just want to make a little extra, go see these contacts. They pay well, and you'll make good connections along the way. It's honest work, or at least as honest as it gets in the Zone. Don't disappoint me.</text>
 	</string>
 	
 	<!--string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
@@ -67,7 +65,7 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
-		<text>You've made quite a name for yourself around here, lass. Wolf says some of the rookies are even whispering your tales over the campfire - haha! Thank you for all your help, and try not to die to anything stupid now.</text>
+		<text>You've made quite a name for yourself around here, stalker. Wolf says some of the rookies are even whispering your tales over the campfire - haha! Thank you for all your help, and try not to die to anything stupid now.</text>
 	</string>
 
 
@@ -105,7 +103,7 @@
 		<text>What's up Lukash? You wanted to see me?</text>
 	</string>
 	<string id="lukash_questlines_about_dialog_1">
-		<text>Yes. Following Strelok recent appearance, a storm is brewing around here. Can you believe it? I need someone to try and find out what's up with Strelok. If you're not up for that, I also have a list of contacts from all over the Zone who need Freedom's help. Are you in?</text>
+		<text>Yes. Following Strelok's recent appearance, a storm is brewing around here. Can you believe it? I need someone to try and find out what's up with Strelok. If you're not up for that, I also have a list of contacts from all over the Zone who need Freedom's help. Are you in?</text>
 	</string>
 	
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_0">
@@ -117,7 +115,7 @@
 
 	<!-- LUKASH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
-		<text>Hey girl, thanks for helping the boys around here keep the Zone free. Pity that not everyone is living in harmony with each other yet, but what can you do, right? It's not like we can just wish everyone to get along. Anyway, you've done a good thing. Freedom is proud of you.</text>
+		<text>Hey lady, thanks for helping the boys around here keep the Zone free. Pity that not everyone is living in harmony with each other yet, but what can you do, right? It's not like we can just wish everyone to get along. Anyway, you've done a good thing. Freedom is proud of you.</text>
 	</string>
 
 
@@ -155,7 +153,7 @@
 		<text>You wanted to see me, Professor?</text>
 	</string>
 	<string id="sakharov_questlines_about_dialog_1">
-		<text>Oh, yes, yes. Good! I'm glad you're here. Something unexpected has happened, young lady. Strelok has been sighted in the Zone once again! Finding him is currently a priority, both to me and our supervisors. If you wish to participate in our search for Strelok, I can tell you more. If not... well... I have another important assignment. It involves travelling the Zone and meeting new people to learn as much as you can - There is so much out there we haven't yet discovered. You could consider it... exploratory research.</text>
+		<text>Oh, yes, yes. Good! I'm glad you're here. Something unexpected has happened, young man. Strelok has been sighted in the Zone once again! Finding him is currently a priority, both to me and our supervisors. If you wish to participate in our search for Strelok, I can tell you more. If not... well... I have another important assignment. It involves travelling the Zone and meeting new people to learn as much as you can - There is so much out there we haven't yet discovered. You could consider it... exploratory research.</text>
 	</string>
 	
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_0">
@@ -202,7 +200,7 @@
 	</string>
 	
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_0">
-		<text>Reporting for duty, Sir.</text>
+		<text>Reporting for duty, sir.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_1">
 		<text>Welcome to hell soldier. Listen to me and you'll stay alive. Keep your head on a swivel. As you should know by now, everyone and everything out there is trying to kill you. Trust no one. No unauthorized personnel are allowed to approach you during your operations. If you can't identify who's coming, shoot first and ask questions later. Your tour of duty will take you all over the Zone, and most of the time no one will be there to help you.\n \nYou must rely on your survival training to stay alive and complete your assignments by any means necessary. Meet with the contacts loaded into your PDA and they will give you your orders. Just complete your tour of duty, keep your heart beating and you'll get to go home with a fat wad of cash in your pocket. You are dismissed.</text>
@@ -228,13 +226,13 @@
 
 	<!-- SULTAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
-		<text>Wadda you want? .. *hic* .. Oh, itz you .. *hic* .. I know you. Hey, didja do that thing I wanted for ya to do? Ahhh, I knew you wouldn't let me down friend, you're always friend .. *hic* .. Here, join me inna drink.. inna.. where'z my bottle? .. *hic* .. It'z a celelelebration! Cus I'm gonna be rizssh! .. *hic* .. See, I just found out something that nobody else knows, but shzzh, you gotta keep it quiet, ok? Cuz if anyone elses knowz then they might beat me to it. See, now that the Brain Szzcortcher .. *hic* .. has been deactivated the path to the Wizzsh Granter is open. All I gotta do is fight my way through a few Monolith pricks and then it's the sweet life for me. I'm gonna wish for all kindsa money, and booze, and guns, and booze, and puzzzshh .. *hic* .. eey. Ya know what it mean, hehe .. *hic* .. So lizzen, just don't go tellin' no one what I juz been tellin' you about, okee? Cuz I'm gonna get there first and I'm gonna be rizssh bizssh!!</text>
+		<text>Wadda you want? .. *hic* .. Oh, itz you .. *hic* .. I know you. Hey, didja do that thing I wanted for ya to do? Ahhh, I knew you wouldn't let me down buddy, you're always buddy .. *hic* .. Here, join me inna drink.. inna.. where'z my bottle? .. *hic* .. It'z a celelelebration! Cus I'm gonna be rizssh! .. *hic* .. See, I just found out something that nobody else knows, but shzzh, you gotta keep it quiet, ok? Cuz if anyone elses knowz then they might beat me to it. See, now that the Brain Szzcortcher .. *hic* .. has been deactivated the path to the Wizzsh Granter is open. All I gotta do is fight my way through a few Monolith pricks and then it's the sweet life for me. I'm gonna wish for all kindsa money, and booze, and guns, and booze, and puzzzshh .. *hic* .. eey. Ya know what it mean, hehe .. *hic* .. So lizzen, just don't go tellin' no one what I juz been tellin' you about, okee? Cuz I'm gonna get there first and I'm gonna be rizssh bizssh!!</text>
 	</string>
 
 
 	<!-- RABBIT STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_monolith">
-		<text>Brothers and sisters, it is time for you to fulfil the wishes of the Monolith. Return to the Palace of Culture's cellar in Pripyat for your tasks.</text>
+		<text>Brethren, it is time for you to fulfil the wishes of the Monolith. Return to the Palace of Culture's cellar in Pripyat for your tasks.</text>
 	</string>
 	
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_0">
@@ -252,7 +250,7 @@
 	
 	<!-- STRIBOG STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_greh">
-		<text>Chernobog has spoken. It is time to let this world be enlightened. Return to me, brothers and sisters. I will inform you about your tasks.</text>
+		<text>Chernobog has spoken. It is time to let this world be enlightened. Return to me, brothers. I will inform you about your tasks.</text>
 	</string>
 	
 	<string id="drx_sl_red_greh_trader_game_start_dialog_1_0">
@@ -270,7 +268,7 @@
 
 	<!-- ACTOR:  Requests to change factions: -->
 	<string id="st_drx_sl_change_factions_request">
-		<text>Hey, I was considering to join your faction.</text>
+		<text>I'm thinking of changing factions.</text>
 	</string>
 
 	<!-- ACTOR:  Accepts change factions task from npc -->
@@ -292,7 +290,7 @@
 
 <!-- GENERAL -->
 	<string id="dm_universal_actor_start">
-		<text>Hello, I've got some questions.</text>
+		<text>I want to ask you something.</text>
 	</string>
 	<string id="dm_universal_actor_exit">
 		<text>Never mind.</text>
@@ -304,37 +302,37 @@
 		<text>Thanks.</text>
 	</string>
 	<string id="dm_universal_npc_start_1">
-		<text>Eh... I know little, but yeah... Ask me.</text>
+		<text>About what?</text>
 	</string>
 	<string id="dm_universal_npc_start_2">
-		<text>Sure, what would you like to know?</text>
+		<text>Sure.</text>
 	</string>
 	<string id="dm_universal_npc_start_3">
-		<text>About what exactly?</text>
+		<text>Go ahead.</text>
 	</string>
 	<string id="dm_universal_npc_start_4">
-		<text>Make it quick, okay? I have important stuff to do today.</text>
+		<text>Yes?</text>
 	</string>
 	<string id="dm_no_more_1">
-		<text>I already told you all that I know.</text>
+		<text>I already told you.</text>
 	</string>
 	<string id="dm_no_more_2">
-		<text>Sorry, I don't know much more than that.</text>
+		<text>I don't know much more.</text>
 	</string>
 	<string id="dm_no_more_3">
-		<text>Ask someone else around. I've got important matters to attend to.</text>
+		<text>That's all I know. Ask someone else.</text>
 	</string>
 	<string id="dm_no_more_4">
-		<text>God damn, lady! You got a hard-on for me?! Ask someone else, and piss off already!</text>
+		<text>God damn, lady! You got a crush on me?! Ask someone else, and piss off already!</text>
 	</string>
 	<string id="dm_no_more_5">
-		<text>Not much more I can tell you, girl.</text>
+		<text>Not much more I can tell ya, girl.</text>
 	</string>
 	<string id="dm_no_more_6">
 		<text>You can keep asking the same shit, but I got nothing more to say.</text>
 	</string>
 	<string id="dm_no_more_7">
-		<text>Drop the subject, it is tiring.</text>
+		<text>Drop the subject, honey.</text>
 	</string>
 	<string id="dm_no_more_8">
 		<text>Some other time, lady.</text>
@@ -352,10 +350,10 @@
 		<text>Good question. If you find out, share that info with me, will you?</text>
 	</string>
 	<string id="dm_do_not_know_3">
-		<text>You are putting me on the spot here, girl. I don't know.</text>
+		<text>You are putting me on the spot here, lady. I don't know.</text>
 	</string>
 	<string id="dm_do_not_know_4">
-		<text>Hell if I know. Don't you have someone else to piss off?</text>
+		<text>Hell if I know, lady.</text>
 	</string>
 	<string id="dm_do_not_know_5">
 		<text>There's always something going on in the Zone, but nothing I would like to share with you.</text>
@@ -364,7 +362,7 @@
 		<text>I've nothing to tell you, lady. Nobody tells me shit.</text>
 	</string>
 	<string id="dm_do_not_know_7">
-		<text>You're asking the wrong stalker, I am not in the mood today.</text>
+		<text>You're asking the wrong guy.</text>
 	</string>
 	<string id="dm_do_not_know_8">
 		<text>I'd like to know that too.</text>
@@ -378,10 +376,10 @@
 
 	<!-- Greetings -->
 	<string id="dm_hello_general_1">
-		<text>You look familiar...</text>
+		<text>How's it going?</text>
 	</string>
 	<string id="dm_hello_general_2">
-		<text>Hey, what's up?</text>
+		<text>Hey, lady. What's up?</text>
 	</string>
 	<string id="dm_hello_general_3">
 		<text>Hello. How are you?</text>
@@ -396,7 +394,7 @@
 		<text>I'm good. What's up?</text>
 	</string>
 	<string id="dm_hello_4">
-		<text>Mhm?</text>
+		<text>Hello.</text>
 	</string>
 	<string id="dm_hello_5">
 		<text>What's up?</text>
@@ -408,7 +406,7 @@
 		<text>So far, so good. You?</text>
 	</string>
 	<string id="dm_hello_8">
-		<text>I'm not in the mood today, make it quick.</text>
+		<text>Been better days. What do you need?</text>
 	</string>
 	<string id="dm_hello_9">
 		<text>Good day!</text>
@@ -420,7 +418,7 @@
 		<text>Piss off, stalker.</text>
 	</string>
 	<string id="dm_hello_12">
-		<text>What can I help you with?</text>
+		<text>What do you want?</text>
 	</string>
 	<string id="dm_hello_13">
 		<text>Okay, just one damn question, but all I better see after is asses and elbows.</text>
@@ -434,7 +432,7 @@
 		<text>Help, please... I'm dying...</text>
 	</string>
 	<string id="dm_help_2">
-		<text>Help me out, sister... Oh, God, it hurts!</text>
+		<text>Help me out, sis... Oh, God, it hurts!</text>
 	</string>
 	<string id="dm_help_3">
 		<text>Friend, medkit... Give me a medkit...</text>
@@ -458,7 +456,7 @@
 		<text>Medkit!</text>
 	</string>
 	<string id="dm_help_10">
-		<text>Help, sister!</text>
+		<text>Help, lady!</text>
 	</string>
 	<string id="dm_help_11">
 		<text>Medkit! Quick!</text>
@@ -574,13 +572,13 @@
 		<text>The hardest thing about artefact hunting is starting. Once you have adequate protection and medication, all it asks for is patience, a decent detector, and lots and lots of practice.</text>
 	</string>
 	<string id="dm_anomalies_27">
-		<text>Get lots of rest and take care of yourself, girl. Anomalies aren't always easy to spot, so you gotta make sure you can be alert. How can you expect to evade a field of Vortexes after a night of vodka abuse?</text>
+		<text>Get lots of rest and take care of yourself, honey. Anomalies aren't always easy to spot, so you gotta make sure you can be alert. How can you expect to evade a field of Vortexes after a night of vodka abuse?</text>
 	</string>
 	<string id="dm_anomalies_28">
 		<text>Do you hear the whispers? That's the Zone, talking to you. Closer to the centre, or during an emission, there are places where its voice becomes overpowering. Without psychic protection, you'll zombify for sure.</text>
 	</string>
 	<string id="dm_anomalies_29">
-		<text>Keep in mind that not everyone around here likes to hunt artefacts. Some hunt mutants... others hunt people. Be careful who you show your loot to.</text>
+		<text>Keep in mind that not everyone around here likes to hunt artefacts. Some hunt mutants...others hunt people. Be careful who you show your loot to.</text>
 	</string>
 	<string id="dm_anomalies_30">
 		<text>Did you know that artefacts are almost indestructible? Sometimes it's better to shoot at the artefact to make it jump out of the anomaly, instead of just being sucked directly into it.</text>
@@ -589,7 +587,7 @@
 		<text>I wish I'd been here during the good old days. Back then, artefacts wouldn't irradiate you just by carrying them. Guess the Zone is more protective over its treasures now, eh?</text>
 	</string>
 	<string id="dm_anomalies_32">
-		<text>Girl, the artefact business is competitive enough as it is. If you really wanna join the rat race though, go see the Ecologists. They can gear you up.</text>
+		<text>Babe, the artefact business is competitive enough as it is. If you really wanna join the rat race though, go see the Ecologists. They can gear you up.</text>
 	</string>
 	<string id="dm_anomalies_33">
 		<text>Many newcomers dream about "the artefact that makes you rich". While the Zone can be fruitful, it's a bad idea to treat it like some sort of lottery. Just work at things consistently and you'll get there.</text>
@@ -640,7 +638,7 @@
 		<text>If you're after artefacts, go for the acid kind. The best place to get those is the Concrete Bath in the southeast of Jupiter. You won't have a lot of competition: most stalkers find it too creepy for their liking.</text>
 	</string>
 	<string id="dm_anomalies_49">
-		<text>Not far from the Jupiter plant, a piece of the road fell through. They call this place "Bitumen", because that's where the pavement melted. It's a thermal-gravitational hybrid. Pretty wizard, ain't it?</text>
+		<text>Not far from the Jupiter plant, a piece of the road fell through. They call this place "Bitumen", because that's where the pavement melted. It's a thermal-gravitational hybrid. Pretty weird, ain't it?</text>
 	</string>
 	<string id="dm_anomalies_50">
 		<text>Toxic gas anomalies are the worst. They create such stinging, bitter marshes. Sometimes the water isn't even water any more, and just turns to acid. Absolutely awful.</text>
@@ -780,7 +778,7 @@
 		<text>All these fucking eggheads are weak as shit. They think they're so smart, yet they don't even know how to live on what the Zone gives them, or even how to hold a gun in their hands!</text>
 	</string>
 	<string id="dm_information_34">
-		<text>Fucking Duty. They may be well armed, and have fancy uniforms, but they're not that different from some of the gangs and mafias I knew in the outside world. They're just too self-righteous to see it.</text>
+		<text>Fucking Duty, man. They may be well armed, and have fancy uniforms, but they're not that different from some of the gangs and mafias I knew in the outside world. They're just too self-righteous to see it.</text>
 	</string>
 	<string id="dm_information_35">
 		<text>Don't believe Freedom's bullshit, girl. We kicked their asses out of Dark Valley and they're too afraid to do anything about it. Think about that next time they claim to be the Zone's freedom fighters and protectors.</text>
@@ -840,7 +838,7 @@
 		<text>What do you think are in all those underground labs? Way I hear it, most people who go down in them never come back up, but those who do always have a wealth of loot, artefacts or information with them.</text>
 	</string>
 	<string id="dm_information_54">
-		<text>I miss the old base back in Dark Valley. It was creepy as shit, sure, but still better than camping south of Radar. Wish Lukash would get tough on those Bandits' asses so we can move our boys south again.</text>
+		<text>Jeez, I miss the old base back in Dark Valley. It was creepy as shit, sure, but still better than camping south of Radar. Wish Lukash would get tough on those Bandits' asses so we can move our boys south again.</text>
 	</string>
 	<string id="dm_information_55">
 		<text>Well, if you need to save money, you can always stick to eating the meat from mutants you kill. Not the healthiest lifestyle, but it'll do while you're saving up for a shiny new suit or detector.</text>
@@ -894,7 +892,7 @@
 		<text>Don't know who're worse - the Free Stalkers we take hits on, or the Bandits we work with. Some days I wish someone'd pay me to feed a bunch of those skull-patched assholes into the nearest anomaly.</text>
 	</string>
 	<string id="dm_information_72">
-		<text>Dead City's location may not be a secret any more, but we still don't get many visitors other than the damned Monolith . Considering how fucked all our surrounding locations are, I'm not exactly surprised.</text>
+		<text>Dead City's location may not be a secret any more, but we still don't get many visitors other than the damned Monolith. Considering how fucked all our surrounding locations are, I'm not exactly surprised.</text>
 	</string>
 	<string id="dm_information_73">
 		<text>I'm sick of how cocky some of the rookies are. Boasting loudly about their loot, playing on their PDAs when they're out in the field, thinking they can kill a rifleman with just a PM...they're too dumb to live, girl.</text>
@@ -934,7 +932,7 @@
 	</string>
 	<string id="dm_information_85">
 		<text>Pray with me sister! 
-		\n\nBlessed are men and women who walk not on the paths of the infidel, nor stands in the way of the sinner. But their delight is the glory of the Monolith alone, and their glory he contemplates day and night. They are like a cliff, planted in streams of water, a stronghold of faith. The infidels are not so, they are like chaff that the wind drives away. Therefore the infidel will not stand before you; no sinner will be in the congregation of your glory. For our Monolith knows the way of the righteous, but the ways of the infidel will perish.</text>
+		\n\nBlessed are those who walk not on the paths of the infidel, nor stands in the way of the sinner. But their delight is the glory of the Monolith alone, and their glory he contemplates day and night. They are like a cliff, planted in streams of water, a stronghold of faith. The infidels are not so, they are like chaff that the wind drives away. Therefore the infidel will not stand before you; no sinner will be in the congregation of your glory. For our Monolith knows the way of the righteous, but the ways of the infidel will perish.</text>
 	</string>
 	<string id="dm_information_86">
 		<text>Do you ever think of your past life? I remember family, a wife, a child. They all seem so distant now, as if from another existence. All I can do is serve the Monolith. The Monolith will provide for them.</text>
@@ -958,7 +956,7 @@
 		<text>Right now, it's too easy for a Bandit or Merc to dress up as a Free Stalker and slip into Rostok unnoticed. We had entry requirements for a reason, and I still can't believe they were revoked.</text>
 	</string>
 	<string id="dm_information_93">
-		<text>Fuck Duty, sis. They have no idea about the Zone or what it could mean for the future of Mankind. There is a world of wonder around them and all they think to do is enable piss-poor officers on their power trips.</text>
+		<text>Fuck Duty, man. They have no idea about the Zone or what it could mean for the future of Mankind. There is a world of wonder around them and all they think to do is enable piss-poor officers on their power trips.</text>
 	</string>
 	<string id="dm_information_94">
 		<text>Emissions are serious business if you live near the Barrier, or close to Pripyat. Monolith bastards know they're immune and you're not, so they use the psy-waves as cover to come ruin your day even more.</text>
@@ -1036,7 +1034,7 @@
 	</string>
 	<!-- Brain Scorcher enabled -->
 	<string id="dm_information_118">
-		<text>Pripyat isn't safe any more, girl. Some hotshot thought he'd try steal an artefact out of the NPP. Before you know it, a legion of those Monolith fanatics came out of nowhere. They're back, and with a vengeance.</text>
+		<text>Pripyat isn't safe any more, honey. Some hotshot thought he'd try steal an artefact out of the NPP. Before you know it, a legion of those Monolith fanatics came out of nowhere. They're back, and with a vengeance.</text>
 	</string>
 	<string id="dm_information_119">
 		<text>The way I hear it, the Monolith would've really taken everyone down a peg if it weren't for Duty's actions at Jupiter. Maybe Voronin's men aren't as bad as some people say.</text>
@@ -1063,7 +1061,7 @@
 		<text>All those legends of "Dark Stalkers" might actually be true. My mates and I keep seeing these dark hooded figures stalking through the woods...sleep in the field hasn't been easy.</text>
 	</string>
 	<string id="dm_information_126">
-		<text>So I was picking over corpses the other day, when I find a few wearing colours I haven't seen before. Their faces...Jesus, their faces...I wish it was just decomposition, but what I saw was something else, sis...</text>
+		<text>So I was picking over corpses the other day, when I find a few wearing colours I haven't seen before. Their faces...Jesus, their faces...I wish it was just decomposition, but what I saw was something else, man...</text>
 	</string>
 	<string id="dm_information_127">
 		<text>This weird hooded guy came to my camp the other day, asking us for water and telling us about his beliefs. He sounded like an utter nutjob.</text>
@@ -1076,7 +1074,7 @@
 	</string>
 	<!-- Sin attack on Limansk -->
 	<string id="dm_information_130">
-		<text>Holy shit girl, how can you not know? The Monolith has some new friends, and they're going ballistic! Freedom can barely hold the Barrier any more. Things are about to get serious.</text>
+		<text>Holy shit, babe, how can you not know? The Monolith has some new friends, and they're going ballistic! Freedom can barely hold the Barrier any more. Things are about to get serious.</text>
 	</string>
 	<string id="dm_information_131">
 		<text>Things have gone dark up north again. The last forecast was a tidal wave of shadowy crusaders, their weapons raining down upon us. Hopefully this is a storm I'll be able to wait out.</text>
@@ -1207,7 +1205,7 @@
 		<text>I, for one, think that we need to start providing more for our own protection. Duty has weakened, the Mercenaries are not trustworthy, and don't even think of mentioning the Military. We need space to work, and I think we need to get better at protecting it.</text>
 	</string>
 	<string id="dm_information_171">
-		<text>Nothing like guard-duty at the Yantar lab: hours on end of lethal boredom until you get jumped by some hell-sped monstrosity and wake up with your internal organs in the wrong place. Sis, we need Duty back.</text>
+		<text>Nothing like guard-duty at the Yantar lab: hours on end of lethal boredom until you get jumped by some hell-sped monstrosity and wake up with your internal organs in the wrong place. Jeez, we need Duty back.</text>
 	</string>
 	<string id="dm_information_172">
 		<text>I worry that our research mission is being mixed in with some pretty dubious motives; I think we could use an ethics board to keep us on track.</text>
@@ -1455,7 +1453,7 @@
 		<text>Oh, business as usual. Hey, is Abakumin still the quartermaster in Agroprom? When I was still with the army, he said he was going to join Duty some day. That was five years back, but we've never heard from him.</text>
 	</string>
 	<string id="dm_information_253">
-		<text>Saw one of your birds crossing over Garbage the other day - what's the deal? Sis, Duty could use one of those these days. Although, if you listen to the rumors going around... well, good day to you.</text>
+		<text>Saw one of your birds crossing over Garbage the other day - what's the deal? Man, Duty could use one of those these days. Although, if you listen to the rumors going around... well, good day to you.</text>
 	</string>
 	<string id="dm_information_254">
 		<text>Oh, we're holding our ground. I've heard that Sidorovich is as rich and fat as ever, the old bastard. I haven't seen him since he sold me the most diluted vodka I've ever had.</text>
@@ -1577,7 +1575,7 @@
 		<text>Kuznetsov wouldn't hesitate to use you as a human shield to save his own ass. How many people do you think he has sent to their deaths just to get where he is now? You know, one time there was an attempt to... well, I shouldn't be talking about it.</text>
 	</string>
 	<string id="dm_information_293">
-		<text>We're fighting in a graveyard sister, look around. Rusting shells of APCs, smashed trucks, wrecked choppers.... they all tell a tale. That's aside from the human corpses, a lot of which are up and walking around. I wonder if we'll join them...</text>
+		<text>We're fighting in a graveyard lady, look around. Rusting shells of APCs, smashed trucks, wrecked choppers.... they all tell a tale. That's aside from the human corpses, a lot of which are up and walking around. I wonder if we'll join them...</text>
 	</string>
 	<string id="dm_information_294">
 		<text>A lot of guys say it's pointless here - I don't. I used to think that, until I saw what the Monolith could do. What happens when they start spreading outside the Zone? Who's going to stop them? The stalkers? Right... We've got to stay and fight. We've got to.</text>
@@ -1705,7 +1703,7 @@
 		<text>Just be careful who you're talking to out there. Our situation calls for discretion and there are plenty of unscrupulous assholes out there would sell intel to our enemies for few rubles. Practice silence and refrain from drinking with outsiders.</text>
 	</string>
 	<string id="dm_information_335">
-		<text>Girl, Professor Kalancha's getting old. One day, he'll be gone. Who's going to fill that place? All the greats are dead and buried.</text>
+		<text>Jeez, Professor Kalancha's getting old. One day, he'll be gone. Who's going to fill that place? All the greats are dead and buried.</text>
 	</string>
 	<string id="dm_information_336">
 		<text>I think I would be much more content if the food situation was better. There's lots of ways to prepare "local cuisine", but I'm just so sick of it all. Give me real food and hold the rads, please.</text>
@@ -1752,7 +1750,7 @@
 	
 	<!-- FREEDOM -->
 	<string id="dm_information_350">
-		<text>There's just nothing like the Zone, sister. Have you ever just seen the sky after an emission... the feeling of cool wind and a peace in the air... shit, I could write some poetry on that.</text>
+		<text>There's just nothing like the Zone, sis. Have you ever just seen the sky after an emission... the feeling of cool wind and a peace in the air... shit, I could write some poetry on that.</text>
 	</string>
 	<string id="dm_information_351">
 		<text>Now, I'm not saying there's not any nuts in Freedom, ok? Like those two Czech guys who are committed vegetarians and pacifists. C'mon lady, have you ever seen one of those fucked-up man-eating cats? I bet those two have never been out of the base.</text>
@@ -1764,7 +1762,7 @@
 		<text>Some stalkers think that the Zone just provides a release to their violent tendencies. Like those assholes who go around shooting birds or dog pups... what's wrong with some people?</text>
 	</string>
 	<string id="dm_information_354">
-		<text>The best thing about Freedom is that we're all brothers and sisters here. There's no sad imitation of the army thugs here: "Yes sir, no sir" bullshit. No, we actually look out for each-other because we care, not because some stuck-up prick tells us to.</text>
+		<text>The best thing about Freedom is that we're all family here. There's no sad imitation of the army thugs here: "Yes sir, no sir" bullshit. No, we actually look out for each-other because we care, not because some stuck-up prick tells us to.</text>
 	</string>
 	<string id="dm_information_355">
 		<text>Yeah, I know all of the jokes, but don't treat bloodsuckers lightly. More than one a couple of cocky rookies wandered off into the abandoned village and were never seen again. Well, they were never seen again in one piece.</text>
@@ -1788,7 +1786,7 @@
 		<text>There's no prudes in Freedom, but certain behaviors are not acceptable to the group. For instance, we all like a little hit of something to take the edge off, but don't get violently hooked on meth - you will be shown the door. Most of those sorts join the Bandits, we don't want that kind of person around here.</text>
 	</string>
 	<string id="dm_information_362">
-		<text>Back in the world I was a backpacker, and an extreme backpacker at that. That's really the reason I came here, to tackle some nature that outdid everything else the world had to offer. I thought Freedom was cool, so I joined up, but I still get to take some long trips deep into the Zone. You should come with me sometime, my lady - just bring something for all the mutants.</text>
+		<text>Back in the world I was a backpacker, and an extreme backpacker at that. That's really the reason I came here, to tackle some nature that outdid everything else the world had to offer. I thought Freedom was cool, so I joined up, but I still get to take some long trips deep into the Zone. You should come with me sometime, sweetie - just bring something for all the mutants.</text>
 	</string>
 	<string id="dm_information_363">
 		<text>How about this for a story, sis: I was in the Red Forest because a friend of mine who had just quit the Zone left me coordinates for a stash of all his artefact-finding gear. I'm no blockhead, so I'm taking it real slow, observing first and then sneaking along. My PDA led me up to a big tree; I walked around it and found my friend's pack in a huge fissure that ran down the trunk. I was just about to leave when I heard footsteps from the other side of the tree. I thought there were maybe five or six guys and they stopped moving for awhile so I snuck a peak around the side: a fucking squad of Monolith! So I just crouched there, behind the tree with half my body in the fissure. They didn't talk, but they did this weird sort of humming thing. Meanwhile, I'm thinking that it's all over for me; that they would notice me any second. I waited for six hours like that - imagine that! Then they left, and I hurried my lucky ass home.</text>
@@ -1797,7 +1795,7 @@
 		<text>What's up with all these power-hungry asswipes in Freedom now? I suggested that we should pool our resources that we find out in the Zone and then distribute them evenly to all faction-members, but they just brushed me off! I guess this group is really going to the profiteers. Nobody around here even wants to talk about economics.</text>
 	</string>
 	<string id="dm_information_365">
-		<text>It's a shame that its so hard to go between Yanov station and the Warehouses - make your pick between Radar and Red Forest. What a choice! Go ahead and pick between certain death or nearly certain death. Lady, I haven't seen my old friends in awhile.</text>
+		<text>It's a shame that its so hard to go between Yanov station and the Warehouses - make your pick between Radar and Red Forest. Oh man, what a choice! Go ahead and pick between certain death or nearly certain death. Man, I haven't seen my old friends in awhile.</text>
 	</string>
 	<string id="dm_information_366">
 		<text>If you need an edge against the local fauna as well as little army peons, then drop by Skinflint's place. He can hook you up with some real NATO badassery. Careful when you sell stuff to him, though - he can really pinch pennies</text>
@@ -1839,7 +1837,7 @@
 		<text>Goddamnit, we really need to be more careful about emission warnings; every time we crawl out of our holes, there's another person who will never answer on the radio again. Usually, we find them later, hunched-over and gibbering their brains out of their heads. It's a miserable way to die.</text>
 	</string>
 	<string id="dm_information_379">
-		<text>Sis, I've had some sort of burning rash for weeks now. I've been sort of avoiding Solid because... well, there aren't any malpractice attorneys in the Zone. Maybe that's a blessing.</text>
+		<text>Jeez, I've had some sort of burning rash for weeks now. I've been sort of avoiding Solid because... well, there aren't any malpractice attorneys in the Zone. Maybe that's a blessing.</text>
 	</string>
 	<string id="dm_information_380">
 		<text>There was a real psychotic in Freedom who left a couple of months back, did you know him? Well, I can't remember his name, but it was something weird, even for the Zone. This dude thought that he was actually the reincarnation of Vladimir Lenin and he went around talking like it. He wasn't just some excited Marxist kid, this guy had issues. He wanted an economic reform in the Zone, all well and good in Freedom, but... he considered the mutants to be the oppressed class and all stalkers as the exploiters. Yup. Although, I did see him kill a bloodsucker personally and I think he was calling it a "class traitor" while he did it. Yeah, that guy was actually insane. We kinda liked him around here though, he was like the village lunatic. He walked out of base one day and never came back. Freedom is a bit more dull now.</text>
@@ -1848,7 +1846,7 @@
 		<text>Kinda ironic that we, who are always talking about an open Zone, are in charge of manning the Barrier. Hey, I'm not complaining, just think that irony is usually pretty potent in the Zone.</text>
 	</string>
 	<string id="dm_information_382">
-		<text>Fuck Leshiy! That guy is a crypto-Dutyer and a former Merc. Just because he had a bad turn with an anomaly, now he hates the miracles created by the Zone. I mean, what's he even doing in Freedom if he thinks that? Anyway, he was an asshole to some of our guys, told then that they should quit just cause they hit a rough patch. He's more Merc than Freedom - he doesn't give a shit when some of our best stalkers bite the dust; he makes jokes!</text>
+		<text>Damn, fuck Leshiy! Guy's a crypto-Dutyer and a former Merc. Just because he had a bad turn with an anomaly, now he hates the miracles created by the Zone. I mean, what's he even doing in Freedom if he thinks that? Anyway, he was an asshole to some of our guys, told then that they should quit just cause they hit a rough patch. He's more Merc than Freedom - he doesn't give a shit when some of our best stalkers bite the dust; he makes jokes!</text>
 	</string>
 	<string id="dm_information_383">
 		<text>Just hang in there lady, we're the only thing stopping the industrial takeover of the Zone. No one else will do it. When I hold a Moonlight in my hand, after navigating the trials of the Zone's natural defenses, and I look into glowing radiance of its beauty and see the mysteries of nature unraveling before me... I think of what this place would look like if it was turned into a government quarry, extracting such artefacts for the creation of weapons, all to the highest bidder on the global market. Can't let it happen.</text>
@@ -1872,13 +1870,13 @@
 		<text>Gotta love the eggheads. They're so caught up with their measurements and their tests that they can't see the Zone for what it is. They only see how the Zone is useful, not how it is valuable in itself. Well, what do expect from government boys?</text>
 	</string>
 	<string id="dm_information_390">
-		<text>Ay, my girl! Hit us up in the Warehouses or Jupiter. We'll have some good times!</text>
+		<text>Ayo, my girl! Hit us up in the Warehouses or Jupiter. We'll have some good times!</text>
 	</string>
 	<string id="dm_information_391">
 		<text>Hey sis, do you know Hawaiian? He told me to ask Free Stalkers if you knew about some guy named Degtyarev. Yeah, I don't know. Told him I'd do him a solid.</text>
 	</string>
 	<string id="dm_information_392">
-		<text>What is it that you retards like in the Truck Cemetery anyway? Good birdwatching there? Only birds I see are nasty crows and the occasional army gunship.</text>
+		<text>What is it that you fuckers like in the Truck Cemetery anyway? Good birdwatching there? Only birds I see are nasty crows and the occasional army gunship.</text>
 	</string>
 	<string id="dm_information_393">
 		<text>Greetings, my scientifical friend! Do you happen to have any medicines on hand? I could use some right about now.</text>
@@ -2086,13 +2084,13 @@
 		<text>Ever been in Yanov before? It's pretty tight down at the Container Warehouse, especially since Duty got their asses kicked out of the station. Now, though, you gotta watch out for those crazy lunatics from Pripyat. And the thing about them is that you can't buy them out or intimidate them. Nope, they're real bad news.</text>
 	</string>
 	<string id="dm_information_460">
-		<text>Lady, I don't like this gunfighting wild west shit that's goin' on around here. We used to be able to frisk some rookies and then send them on their way, but now it's just shoot on sight. Can't even make a decent score without risking a gunshot.</text>
+		<text>Jeez, I don't like this gunfighting wild west shit that's goin' on around here. We used to be able to frisk some rookies and then send them on their way, but now it's just shoot on sight. Can't even make a decent score without risking a gunshot.</text>
 	</string>
 	<string id="dm_information_461">
 		<text>I laugh at all this shit. What kind of blockhead retards actually come to the Zone looking for riches and "discoveries"? All of these morons are all here thinking that they'll become rich and famous, when they're really headed straight into the belly of the nearest mutant. It's hysterical. As for me, I'm here to watch. And to pick up the stuff they leave behind.</text>
 	</string>
 	<string id="dm_information_462">
-		<text>We used to run the Garbage, sis; had a good thing going. But Yoga was weak and look where he got us. Stalkers from the south and those Duty assholes in the north, not to mention the army shits wandering around. That train station's nearly empty now, used to be a good place to rest up and get something to eat.</text>
+		<text>We used to run the Garbage, man; had a good thing going. But Yoga was weak and look where he got us. Stalkers from the south and those Duty assholes in the north, not to mention the army shits wandering around. That train station's nearly empty now, used to be a good place to rest up and get something to eat.</text>
 	</string>
 	<string id="dm_information_463">
 		<text>Most pricks who wear the skull patch are loudmouth little thugs who would shit themselves if they saw any real action. I've done some things on the outside. I used to run hits, and not just fat drug-dealers - no, I've whacked out government officials and inmates in a federal prison. Screw the Mercs, they didn't want to pay for my skills, so too bad for them. Now I'm here, watching over a bunch of slack-jawed low-lifes, used to nothing more than snatching the purses of helpless old women.</text>
@@ -2101,10 +2099,10 @@
 		<text>The Zone's got a way of turning the tables on you - you do something a thousand times and on the thousand and first, you get screwed. We held up this single loner in the woods around Darkscape - nothing special, just a guy with a grimy sunrise suit and mask. Except that he didn't have a shooter and he never said a word. We just put a pistol in his face and he raises his hands up in a kinda jerky way. We dig through his pack to find all his shit is junk: rotting food, old busted electronics and whatnot. So we march him away, thinking we could ransom him, and it feels like the Zone is actively trying to resist us. We keep tripping over shit and getting stuck, we can't find the way out and we have to fight off a bunch of the local wildlife, really agressive. At this point, we're spooked, so we just tell the guy to get lost and he walks away without a word. When we get back out to the road, we find his suit and his gear just laying on a tree stump - no guy in it! I don't know what that stalker was, but you have to know when to let go.</text>
 	</string>
 	<string id="dm_information_465">
-		<text>Those pseudodogs freaks are fuckin' nuts lady, they're like psychopaths dressed up as dogs. They're not just animals, I know that; animals don't enjoy cruelty but those monsters do. I've seen it before, they cripple a guy, rip up his limbs and then just play around with him. Sometimes it's hours before the guy dies. You can see it in their faces, they're way more like people than dogs. It's totally fucked.</text>
+		<text>Those pseudodogs freaks are fuckin' nuts man, they're like psychopaths dressed up as dogs. They're not just animals, I know that; animals don't enjoy cruelty but those monsters do. I've seen it before, they cripple a guy, rip up his limbs and then just play around with him. Sometimes it's hours before the guy dies. You can see it in their faces, they're way more like people than dogs. It's totally fucked.</text>
 	</string>
 	<string id="dm_information_466">
-		<text>I hate Psy storms, girl. Just when you think the Zone is bad enough with its emissions, it surprises you again with yet another trick that can fry your brain. I get headaches too, but I sorta get them right before the storm hits, so I have my own little warning system. Be nice, and I'll let you in on it.</text>
+		<text>I hate Psy storms, man. Just when you think the Zone is bad enough with its emissions, it surprises you again with yet another trick that can fry your brain. I get headaches too, but I sorta get them right before the storm hits, so I have my own little warning system. Be nice, and I'll let you in on it.</text>
 	</string>
 	<string id="dm_information_467">
 		<text>You know, some guys who join up with the Bandits aren't so bad. Some guys are pushed into the Zone and they feel a bit lost, they see all the shit in here and join up for a sense of security, of brotherhood. If we don't organize, the Zone will chew us up and spit us out.</text>
@@ -2113,7 +2111,7 @@
 		<text>Used to know this guy named Brand, that guy was the real deal. If you gave him shit, you would always end up underground. One time he baited an army squad into a meeting and then had them ambushed and wasted - those assholes thought they found another informer. He also ran as an info broker, he would trade weapon cache coordinates for tips. One day, though, he was caught skimming some stuff off of Olivius' arms shipment. As scary as you were, you don't just screw-over Olivius. That was the last we heard of Brand, but someone said that they tied him up outside right before an emission. If you see a pissed-off zombie walking around with three fingers on his left hand, that's him.</text>
 	</string>
 	<string id="dm_information_469">
-		<text>The Swamps are fucked, lady. You know how many people go in and don't come out? Not to mention the war that's been going on for years and years. It's like a knife-fight in a sewer.</text>
+		<text>The Swamps are fucked, man. You know how many people go in and don't come out? Not to mention the war that's been going on for years and years. It's like a knife-fight in a sewer.</text>
 	</string>
 	<string id="dm_information_470">
 		<text>Olivius used to be the top dog in the Dark Valley, but when Sultan showed up, his ass kicked out of Zaton, it looked like there was going to be a fight. Luckily, Limpid stepped in and worked out a deal. But, to tell you the truth, it's pretty obvious to everyone that Sultan does pretty much whatever he wants now. Olivius is none too happy.</text>
@@ -2128,7 +2126,7 @@
 		<text>When you set up an ambush, don't be a sucker and put yourself at a disadvantage. Here's what you do: just set up a little tripmine in the path, not enough to scatter someone to the four winds, but just enough to blow their legs out and disable any of the guy's friends. Now it's a whole lot easier to bargain, eh? Or do what I do, just give a couple bullets a piece and then you can shop their pockets at your own leisure.</text>
 	</string>
 	<string id="dm_information_474">
-		<text>Sis, I can't wait until we're in charge of the whole Zone - things will be so much easier. It'll be better for everyone, really: "Sure, we'll let you into the Zone, but you gotta give us half of what you make". Let us see some cash and we'll make sure you get some protection. Simple. Better than the mess we're in right now.</text>
+		<text>Man, I can't wait until we're in charge of the whole Zone - things will be so much easier. It'll be better for everyone, really: "Sure, we'll let you into the Zone, but you gotta give us half of what you make". Let us see some cash and we'll make sure you get some protection. Simple. Better than the mess we're in right now.</text>
 	</string>
 	<string id="dm_information_475">
 		<text>Ever want a good laugh? Check out what those loner dipshits are up to over in Cordon. The Zone is full of suckers, but none as hopeless as those morons. They die like flies anywhere outside their sad little hideouts.</text> 
@@ -2146,7 +2144,7 @@
 		<text>Little Duty pricks are just angry 'cause they got their asses handed to them all the time. That's why they're so pissy when you see them. What a bunch of bitches.</text>
 	</string>
 	<string id="dm_information_480">
-		<text>I got some friends in Freedom. They're alright, but they still hang on to their little moral rules and nice guy shit. True freedom is doing whatever the hell you want, true freedom is with the Bandits, sister.</text>
+		<text>I got some friends in Freedom. They're alright, but they still hang on to their little moral rules and nice guy shit. True freedom is doing whatever the hell you want, true freedom is with the Bandits, honey.</text>
 	</string>
 	<string id="dm_information_481">
 		<text>Ah yes, "Clear Sky"... little swamp tadpoles without enough muscle to defend their own territory. What genius runs that train-wreck?</text>
@@ -2155,7 +2153,7 @@
 		<text>Hey sis, got any of the good stuff on you? Where's Yarik? He owes me three bottles of vodka and no, I wasn't too drunk to remember.</text>
 	</string>
 	<string id="dm_information_483">
-		<text>Actually, maybe you could tell me why your boss always seems to have a stick up his ass? Just chill, girl.</text>
+		<text>Actually, maybe you could tell me why your boss always seems to have a stick up his ass? Just chill, babe.</text>
 	</string>
 	<string id="dm_information_484">
 		<text>Yeah, no, you can find out for yourself. Am I supposed to be your buddy or something? Fuck off.</text>
@@ -2721,7 +2719,7 @@
 		<text>How great is the progress of the Monolith! Your arms have carried you far beyond the City, out into the very heartland of the Zone-foes! We are ever glad to assist you.</text>
 	</string>
 	<string id="dm_information_669">
-		<text>Chernobog was wise to make common cause with so mighty a host as the Monolith. Are we not brothers and sisters in spirit? You seek to preserve the noble Zone and we seek to see it grow. No doubt our work is in much of the same.</text>
+		<text>Chernobog was wise to make common cause with so mighty a host as the Monolith. Are we not brethren in spirit? You seek to preserve the noble Zone and we seek to see it grow. No doubt our work is in much of the same.</text>
 	</string>
 	<string id="dm_information_670">
 		<text>I was recently initiated into the Zone and it pains me to think of all of the evil said about the Monolith. Do they not know that it was the Zone-foes who struck at the heart of the Zone without cause? They live in ignorance and misery, death should be a solace for them.</text> 
@@ -2884,7 +2882,7 @@
 		<text>Sidorovich always has something that needs done. He usually pays well, but I wouldn't recommend you take his jobs unless you're ready to get your hands really, really dirty.</text>
 	</string>
 	<string id="dm_job_4">
-		<text>Wolf and Fanatic could give you work to do. Bandits are coming more often lately, and not only that, mutants have become more active. They always ask for someone to clean the Cordon from these two threats.</text>
+		<text>Wolf has been looking for help. He pays stalkers to hunt mutants in the local area to ensure the safety of the village.</text>
 	</string>
 	<string id="dm_job_5">
 		<text>Owl, who hangs out at the Skadovsk, is always looking to buy or sell information. I would go ask him.</text>
@@ -3279,7 +3277,7 @@
 	</string>
 
 	<string id="st_broker_query">
-		<text>I have some information to sell.</text>
+		<text>I may have some information to sell.</text>
 	</string>
 	<string id="st_broker_query_more">
 		<text>I have something else you may want.</text>
@@ -3744,10 +3742,10 @@
 		<text>Yes, I'm busy with other work.</text>
 	</string>
 	<string id="st_default_task_cancel_1">
-		<text>Why the fuck did you ask me for a job just to give up? Piss off, idiot.</text>
+		<text>I'm disappointed in you, stalker.</text>
 	</string>
 	<string id="st_default_task_cancel_2">
-		<text>What? I thought I could trust you to do that job...</text>
+		<text>What? I had thought better of you, stalker.</text>
 	</string>
 	<string id="st_default_task_cancel_3">
 		<text>I guess that is what I should have expected from a rookie.</text>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
-<!-- (Mercenary Guide) at the merc base -->
-<!-- (Mercenary Trader) at the merc base -->
+<!-- [ Mercenary Guide) at the merc base -->
+<!-- [ Mercenary Trader) at the merc base -->
 	<string id="meet_zaton_killer_guide_station_0">
 		<text>Who are you?</text>
 	</string>
@@ -31,7 +31,7 @@
 	</string>
 
 	
-<!-- Pilot (Loner Guide) -->
+<!-- Pilot [ Loner Guide) -->
 	<string id="meet_guid_zat_0">
 		<text>You look like an interesting character.</text>
 	</string>
@@ -161,7 +161,7 @@
 	</string>
 
 	
-<!-- Owl (Loner Trader) -->
+<!-- Owl [ Loner Trader) -->
 	<string id="owl_story_0">
 		<text>Tell me about this quiet harbor.</text>
 	</string>
@@ -200,7 +200,7 @@
 	</string>
 
 	
-<!-- Beard (Loner Barman) -->
+<!-- Beard [ Loner Barman) -->
 	<string id="boroda_story_0">
 		<text>You must be Beard.</text>
 	</string>
@@ -225,15 +225,15 @@
 	</string>
 
 	
-<!-- Noah (Loner Honcho) Character Description -->
+<!-- Noah [ Loner Honcho) Character Description -->
 	<string id="noah_start_dialog_0">
-		<text>What the fuck man! You almost kill me, lay your gun you moron!</text>
+		<text>Man, what the hell were you shooting for? You almost killed me!</text>
 	</string>
 	<string id="noah_start_dialog_1">
 		<text>And what are you here for? No bullshitting - don't waste my time.</text>
 	</string>
 	<string id="noah_start_dialog_2">
-		<text>Okay, easy... I am just passing by. Need any help? Can you answer a few questions?</text>
+		<text>Okay, easy. Just passing by. Need any help? Can you answer a few questions?</text>
 	</string>
 	<string id="noah_start_dialog_3">
 		<text>I'll answer, but don't screw around.</text>
@@ -404,7 +404,7 @@
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_11112">
-		<text>Well, you won't die from weak radiation. For now at least. But I won't take any responsibility if you bleed to death. Good luck, friend!</text>
+		<text>Well, you won't die from weak radiation. For now at least. But I won't take any responsibility if you bleed to death. Good luck, honey!</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_11113">
@@ -440,12 +440,104 @@
 		<text>Got some booze. Want a shot?</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_1_2">
-		<text>Nah, I'm off the bottle, lass. When I saw item 62, I thought, 'That's it, I'm having the jumps...' See, booze just screws you up. Not a part of a healthy diet. And if I'm gone, who's gonna hammer out ammo for your Gauss rifle?</text>
+		<text>Nah, I'm off the bottle, lady. When I saw item 62, I thought, 'That's it, I'm having the jumps...' See, booze just screws you up. Not a part of a healthy diet. And if I'm gone, who's gonna hammer out ammo for your Gauss rifle?</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_2_0">
 		<text>Here's another bottle for you.</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_3_0">
 		<text>I've got a third one, if you need more.</text>
+	</string>
+
+<!-- Nimble -->
+	<string id="player_inquiry">
+		<text>I'd like to upgrade a gun.</text>
+	</string>
+	<string id="nimble_response">
+		<text>Okay, what kind of gun do you want upgraded? And by the way, don't even think of giving me a trashed gun to work with. Every part and the gun itself has to be at least at 90% condition if you want any work to take place.</text>
+	</string>
+	<string id="option_pistol_0">
+		<text>A pistol.</text>
+	</string>
+	<string id="option_cqc_0">
+		<text>A CQC gun.</text>
+	</string>
+	<string id="option_rifle_0">
+		<text>A rifle.</text>
+	</string>
+	<string id="option_sniper_0">
+		<text>A sniper.</text>
+	</string>
+	<string id="option_pistol_1">
+		<text>What kind of pistol?</text>
+	</string>
+	<string id="option_cqc_1">
+		<text>What kind of CQC gun?</text>
+	</string>
+	<string id="option_rifle_1">
+		<text>What kind of rifle?</text>
+	</string>
+	<string id="option_sniper_1">
+		<text>What kind of sniper?</text>
+	</string>
+	<string id="option_pistol_2_1">
+		<text>A 1911 upgraded to make it hit harder [ 50 000 RU ].</text>
+	</string>
+	<string id="option_pistol_2_2">
+		<text>A 1911 upgraded to make it shoot faster [ 70 000 RU ].</text>
+	</string>
+	<string id="option_pistol_2_3">
+		<text>A deagle [ 50 000 RU ].</text>
+	</string>
+	<string id="option_pistol_2_4">
+		<text>A USP [ 30 000 RU ].</text>
+	</string>
+	<string id="option_cqc_2_1">
+		<text>A protecta [ 30 000 RU ].</text>
+	</string>
+	<string id="option_cqc_2_2">
+		<text>A SPAS-12 [ 30 000 RU ].</text>
+	</string>
+	<string id="option_cqc_2_3">
+		<text>A TOZ-34 [ 45 000 RU ].</text>
+	</string>
+	<string id="option_cqc_2_4">
+		<text>An MP5 [ 65 000 RU ].</text>
+	</string>
+	<string id="option_rifle_2_1">
+		<text>A G36 [ 45 000 RU ].</text>
+	</string>
+	<string id="option_rifle_2_2">
+		<text>A groza [ 45 000 RU ].</text>
+	</string>
+	<string id="option_rifle_2_3">
+		<text>A PKM [ 100 000 RU ].</text>
+	</string>
+	<string id="option_sniper_2_1">
+		<text>A DVL-10 Urbana [ 45 000 RU ].</text>
+	</string>
+	<string id="option_sniper_2_2">
+		<text>A DVL-10 Saboteur [ 45 000 RU ].</text>
+	</string>
+	<string id="option_sniper_2_3">
+		<text>An SVU [ 45 000 RU ].</text>
+	</string>
+	<string id="convo_exit">
+		<text>Actually nevermind.</text>
+	</string>
+	<string id="convo_back">
+		<text>What types of weapons can you upgrade again?</text>
+	</string>
+	<string id="nimble_rant_missing_gun_and_money">
+		<text>If you seriously came here to ask me to upgrade a gun you didn't bring, for money you don't have, then I must be Lukashenko, and I'll have you arrested.</text>
+	</string>
+	<string id="nimble_rant_missing_gun">
+		<text>Do you think I grow them in my backyard? Come back when you actually have the gun.</text>
+	</string>
+	<string id="nimble_rant_missing_money">
+		<text>How the hell am I supposed to afford parts if you don't give me any money? Come back with the money and then we'll talk.</text>
+	</string>
+	<string id="player_acknowledge">
+		<text>Okay.</text>
 	</string>
 </string_table>

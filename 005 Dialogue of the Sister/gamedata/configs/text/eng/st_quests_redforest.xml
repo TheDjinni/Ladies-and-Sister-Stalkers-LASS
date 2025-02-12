@@ -27,7 +27,7 @@
 		<text>You shall bring the secrets you can find inside Lab X-16 back to Stribog. The world must never find them.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_1_about">
-		<text>As the true keepers of the Zone, we must act fast and keep its secrets hidden away from the eyes of this sinning world. One of the many secrets can be found inside the laboratory known as "X-16". Bring them to me, sister. We will keep them safe.</text>
+		<text>As the true keepers of the Zone, we must act fast and keep its secrets hidden away from the eyes of this sinful world. One of the many secrets can be found inside the laboratory known as "X-16". Bring them to me, sister. We will keep them safe.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_1_finish">
 		<text>You have done well.</text>
@@ -43,32 +43,32 @@
 		<text>A man is seeking enlightenment. He wants to escape from his squad, kill the other members of the squad and escort him back to the Stribog. The man is carrying SVD rifle.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_2_about">
-		<text>A man who believe in our cause have reached us out. He wish to be freed from this world, but he's still afraid on his own life. You must clear his way out of his squad. You will recognize him by the SVD he's carrying. I must let you know that he's still hesitating, expect him to shoot back while he's being under watch. Soon, he will be enlightened.</text>
+		<text>A man who believes in our cause have reached out to us. He wishes to be freed from this world, but he's still afraid on his own life. You must clear his way out of his squad. You will recognize him by the SVD he's carrying. Kill those he is with and save the believer. I must let you know that he's still hesitating, expect him to shoot back while he's being under watch. Soon, he will be enlightened.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_2_finish">
-		<text>Your effort make us stronger. Well done!</text>
+		<text>Your efforts make us stronger. Well done!</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_2_msg_join">
 		<text>Thank you, sister. I'm truly thankful... Lead the way, it is time to leave this old world behind.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_2_msg_leave">
-		<text>We have arrived. I will go to meet my brothers. Farewell.</text>
+		<text>Thank you again. I will go to meet my brethren. Farewell.</text>
 	</string>
 	
 
 	<!-- Stribog (Sin Trader) Avange the Sinners Storyline Task -->
 
 	<string id="drx_sl_red_greh_trader_task_3_name">
-		<text>Avange the Sinners</text>
+		<text>Avenge the Sinners</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_3_text">
-		<text>You must find infidel who killed the Sin members, and avange them.</text>
+		<text>Find the infidel who killed the Sin members, and avenge them.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_3_about">
-		<text>A handful of our brave fighters have been murdered in cold blood. We can't let the infidel escape. Avange our brothers.</text>
+		<text>A handful of our brave fighters have been murdered in cold blood. We can't let the infidel escape. Avenge our brethren.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_3_finish">
-		<text>You have all served our cause well.</text>
+		<text>You have served our cause well.</text>
 	</string>
 	
 
@@ -78,13 +78,13 @@
 		<text>Limansk Purge</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_4_text">
-		<text>Defeat the enemies inside the Limansk. Don't let one alive.</text>
+		<text>Defeat the enemies inside Limansk.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_4_about">
-		<text>Time has come, sister. The monolith elders are seeking our help to purge Limansk and defeat the enemies lurking inside. Make us proud.</text>
+		<text>The time has come, sister. The Monolith elders are seeking our help to purge Limansk and defeat the enemies lurking inside. Make us proud.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_4_finish">
-		<text>You are a true warrioress.</text>
+		<text>You are a fine warrior.</text>
 	</string>
 	
 	<!-- Stribog (Sin Trader) Payoff Change Factions Task -->
@@ -92,11 +92,11 @@
 	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_name">
 		<text>Relinquish Payment to Join Sin</text>
 	</string>
-	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_text">
-		<text>You are to become a Sin member, you will have no more need for money. Give Stribog 1,000 RU to let you join the Sinners cause.</text>
+		<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_text">
+		<text>You are to become a Sin member. You will have no more need for money. Give Stribog 1,000 RU to join our cause.</text>
 	</string>
 	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_about">
-		<text>It's good you have come to your senses, my child. We will welcome you into the order of the Zone but you must first relinquish all of your worldly possessions in the form of 1,000 RU.</text>
+		<text>It's good you have come to your senses, my child. We will welcome you into the order of the Zone but you must first relinquish 1,000 RU. Consider it a fee to truly free yourself from your old life and start anew.</text>
 	</string>
 	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_finish">
 		<text>Well done. You shall bring light to this restless world from now on.</text>
@@ -124,10 +124,10 @@
 		<text>Retrieve the Secrets of Lab X-18</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_text">
-		<text>You shall bring the secrets you can find inside Lab X-18 back to Dazhbog. The world must never find them.</text>
+		<text>Bring the secrets found inside Lab X-18 back to Dazhbog.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_about">
-		<text>As the true keepers of the Zone, we must act fast and keep its secrets hidden away from the eyes of this sinning world. One of the many secrets can be found inside the laboratory known as "X-18". Bring them to me, sister. We will keep them safe.</text>
+		<text>As the true keepers of the Zone, we must act fast and keep its secrets hidden away from the eyes of this sinful world. One of the many secrets can be found inside the laboratory known as "X-18". Bring them to me, sister. We will keep them safe.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_finish">
 		<text>Splendid work!</text>
@@ -140,13 +140,13 @@
 		<text>Hunt the Forest Beast</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_2_text">
-		<text>Dazhbog needs you to hunt down a beast that attacked his men inside the Red Forest.</text>
+		<text>Hunt down a beast that attacked Dazhbog's men inside the Red Forest.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_2_about">
-		<text>This forest can be tough at times, even for our brothers. One of them has been attacked by a dangerous beast. Go out there and hunt it down.</text>
+		<text>This forest can be tough at times, even for our brethren. One of them has been attacked by a dangerous beast. Go out there and hunt it down.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_2_finish">
-		<text>Good job. The forest will be safer.</text>
+		<text>Good job, sister. The forest will be safer.</text>
 	</string>
 	
 
@@ -156,13 +156,13 @@
 		<text>Slay the Enemy Informer</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_3_text">
-		<text>An infidel has been seen tracing the Sinners. Dazhbog tasked you to slay him.</text>
+		<text>Kill the infidel for Dazhbog.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_3_about">
-		<text>One of the infidels has been seen tracing our brothers from distance. The coward ran back to his leaders. He must be slayed at any cost.</text>
+		<text>One of the infidels has been seen watching our brethren from a distance. The coward ran back to his leaders. He must be slayed at any cost.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_3_finish">
-		<text>Great work. No one will dare approaching us again.</text>
+		<text>Great work. No one will dare approach us again.</text>
 	</string>
 
 
@@ -172,7 +172,7 @@
 		<text>Find %s for Dazhbog</text>
 	</string>
 	<string id="red_greh_tech_task_1_text">
-		<text>%s are required by Dazhbog to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+		<text>Dazhbog requires %s to install basic equipment upgrades.</text>
 	</string>
 	<string id="red_greh_tech_task_1_about">
 		<text>I need you to do something for me. I need specific tools to tune our weapons.</text>
@@ -188,32 +188,32 @@
 		<text>Find %s for Dazhbog</text>
 	</string>
 	<string id="red_greh_tech_task_2_text">
-		<text>%s are required by Dazhbog to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+		<text>Dazhbog requires %s to install advanced equipment upgrades.</text>
 	</string>
 	<string id="red_greh_tech_task_2_about">
-		<text>I need some more tools; better tools. Can you find what I ask, again?</text>
+		<text>I need tools of better quality. Can you find some for me, sister?</text>
 	</string>
 	<string id="red_greh_tech_task_2_fetch_about">
-		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need a set of advanced tools to better serve our brethren. Find me some and bring them to me. Now, go.</text>
 	</string>
 	<string id="red_greh_tech_task_2_fetch_finish">
-		<text>Good. You've brought them to me.</text>
+		<text>Good. You've brought them to me. You serve us well. This will not be forgotten.</text>
 	</string>
 
 	<string id="red_greh_tech_task_3_name">
 		<text>Find %s for Dazhbog</text>
 	</string>
 	<string id="red_greh_tech_task_3_text">
-		<text>%s are required by Dazhbog to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+		<text>Dazhbog requires %s to install expert equipment upgrades.</text>
 	</string>
 	<string id="red_greh_tech_task_3_about">
-		<text>I need some more tools; better tools. Can you find what I ask, again?</text>
+		<text>I need tools that will allow me to modify and create weapons of pure retribution. Serve us again, sister.</text>
 	</string>
 	<string id="red_greh_tech_task_3_fetch_about">
-		<text>I need a set of expert tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need the best of the best; a set of expert tools. These will be perfect. Get them for me and I'll be sure to make it worth your while.</text>
 	</string>
 	<string id="red_greh_tech_task_3_fetch_finish">
-		<text>Good. You've brought them to me.</text>
+		<text>Good. You've brought them to me as asked. You devotion has not gone unnoticed.</text>
 	</string>
 
 </string_table>

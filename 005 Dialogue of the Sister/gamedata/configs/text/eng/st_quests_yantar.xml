@@ -48,10 +48,10 @@
 		<text>Some of Professor Sakharov's research papers were left behind when his scientist fled from a mutant attack. Retrieve the documents and return them to Sakharov.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
-		<text>Yes, I do have a quick and important job for you. One of my researchers failed me, he was ambushed by a pack of mutants and he left behind studies with vital information for our work. Now he refuses to retrieve the documents out of fear! Please, we need that study, it's incredibly important and I can't afford Hatchet, Oak, or Pianist to leave the bunker to do this job. Return alive with the documents he's lost and you will have good payment and our respect.</text>
+		<text>Ah, yes, I'm glad you're here. One of my researchers just returned from the field. He had to abandon his notes after being attacked by mutants. He is terrified to go back there. I need that research, stalker. Please retrieve it for me, I will gladly compensate you for your trouble.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
-		<text>Splendid! You returned alive and with the missing documents! Now, here is your well deserved payment, stalker. </text>
+		<text>Thank you stalker! Please, take this as your payment.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -243,10 +243,10 @@
 	</string>
 
 	<string id="brain_machine_deactivate_name">
-		<text>Disable the Miracle Machine</text>
+		<text>Disable the Miracle Machine / Brain Lab to access Radar</text>
 	</string>
 	<string id="brain_machine_deactivate_text">
-		<text>The Miracle Machine may cause issues for the scientists at Yantar if left unchecked for too long. Professor Sakharov would surely appreciate its deactivation.</text>
+		<text>The Miracle Machine / Brain Lab seem to emit psy waves targeted at the Radar area. Psy emissions around the Miracle Machine are also blocking the scientists researches in Yantar. </text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->

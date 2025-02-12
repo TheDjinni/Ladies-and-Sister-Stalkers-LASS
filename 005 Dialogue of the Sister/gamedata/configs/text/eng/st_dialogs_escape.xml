@@ -3,16 +3,16 @@
 
 <!-- Sidrovish -->
 	<string id="esc_2_12_stalker_trader_start_dialog_1">
-		<text>So, a new stalker... and a woman this time, no less. I'm the one in charge of supplying everyone here and making sure that free stalkers have a place to stay, whether they're rookies or veterans.\n \nNow... how you got into the Zone, or if you've been around before, that's your business. But I'm sure you've figured out by now that the Zone isn't exactly the safest place to be. And judging by the look of you, I'd say you've come here for work, eh? If that's the case, I can help you out. There's always work that needs doing - some dirty jobs for those who aren't afraid to get their hands a little messy. And there's a good bit of cash to be made if you're up for it.\n \nAnyway, whether you're here to work or trade, I'd like to remind you just like everyone else in the village, that the Military isn't to be messed with. They don't want any stalkers anywhere near them. Don't waste your time trying to reason with them - not even for a second. They wouldn't trust you even if their lives depended on it. I work my ass off daily to make sure they leave the loners alone, so as long as you and the rest don't interfere with them, things should stay peaceful.</text>
+		<text>A fresh face... and a woman this time, no less. I'm the guy to see if you need any equipment. If you're looking for money, I'm always in need of someone willing to do dirty work.\n \nI look over this camp; all stalkers are welcome to rest here as long as they stay out of trouble. I warn you, do not mess with the military, I work my ass off to make sure they don't crack down on this place. If you get shot by them, that's on you and you alone. Stalkers should be relatively safe as long as they leave the soldiers alone.</text>
 	</string>
 	<string id="esc_2_12_stalker_trader_start_dialog_2">
-		<text>Hey, lass! What do you need?</text>
+		<text>Hey, stalker! What do you need?</text>
 	</string>
 	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
 		<text>Business is taken care of? Good work, here is your payment.</text>
 	</string>
 	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
-		<text>You have a real talent, girl, you know that? Here is your payment. This will be good for business.</text>
+		<text>You have a real talent, you know that? Here is your payment. This will be good for business.</text>
 	</string>
 	
 	<string id="devushka_3_quest_0">
@@ -91,27 +91,27 @@
 	</string>
 	
 	<string id="fanat_training_start_0">
-		<text>Hey, I don't recall seeing you around here, you might be new. Nice to meet you, I am the deputy leader of this village, along with Wolf. If you'd like, I can teach you how to survive in the Zone, and how not to die to the first mutant or anomaly you encounter.</text>
+		<text>Hey...I don't think I've seen you around here before. You seem pretty new, too. I'm the deputy leader of this village, along with Wolf. If you'd like, I can teach you some things about Zone survival, make sure you won't die to the first mutant or anomaly you encounter.</text>
 	</string>
 	<string id="fanat_training_start_1">
-		<text>Hello, I appreciate the introduction. And sure thing, I am willing to learn from you.</text>
+		<text>You know, I could actually use a little help. I'm ready to learn.</text>
 	</string>
 	<string id="fanat_training_start_2">
-		<text>Hi, I appreciate the help, but I am just passing by. Maybe some other time I will consider it.</text>
+		<text>No thanks, I'll live and learn at my own pace.</text>
 	</string>
 	<string id="fanat_training_start_3">
 		<text>Excellent. First, let's teach you how to hunt mutants. There's a small herd of boars on the other side of the road nearby. Now, boars have thick skulls and tiny brains, so the best way to deal with them is shoot them in the side, or - in a perfect world - right up the butt, from a nice, safe distance. We'll take them out together, but try keep them off me - they're in heat this time of year.</text>
 	</string>
 	
 	<string id="fanat_training_boars_death_0">
-		<text>Shit, that was intense! What goes next now?</text>
+		<text>Phew, that was crazy. What now?</text>
 	</string>
 	<string id="fanat_training_boars_death_1">
-		<text>Indeed, try checking if your knife is strong enough to skin those boars. I hope you are not disgusted at all by the idea of skinning mutants, hah. Once you're finished, we'll be moving to the Trash Compactor anomaly, I will help you to get your first artefact.</text>
+		<text>Well done. See if your knife's strong enough to get a few parts off of them. When you're done, let's head to the nearest anomalous zone.</text>
 	</string>
 
 	<string id="fanat_training_anomaly_reached_0">
-		<text>Here we are, what's next now, Fanatic?</text>
+		<text>Here we go, what do I need to do now?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_1">
 		<text>So, this pit is full of gravitational anomalies. See that artefact over there? That's just a loaf of Anomalous Bread, ignore it. But also in this pit is a Jellyfish, and Jellyfishes, along with every other artefact, have both positive and negative qualities... It's quite fortunate that one is here. Now, let's talk about the equipment you should have for artefact hunting.</text>
@@ -120,25 +120,26 @@
 		<text>Show me.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_3">
-		<text>Here, an Echo Detector. All detectors, while active, register the presence of artefacts and measure the distance to the nearest one. They're a basic requirement for finding any artefact that isn't just junk. When you hear it beeping, then you know an artefact must be nearby. The more frequent the beeps, the closer the artefact. Unfortunately, this old model can't detect all types of artefacts, but it should be fine for your attempt today. Better models have better detection range and abilities.</text>
+		<text>It looks like you already have an Echo Detector. All detectors, while active, register the presence of artefacts and measure the distance to the nearest one. They're a basic requirement for finding any artefact that isn't just junk. When you hear it beeping, then you know an artefact must be nearby. The more frequent the beeps, the closer the artefact. Unfortunately, this old model can't detect all types of artefacts, but it should be fine for your attempt today. Better models have better detection range and abilities.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_4">
-		<text>Hmm... it looks old...</text>
+		<text>Not bad.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_5">
-		<text>Now the second tool, a Lead Container. Do you still remember the talk about artefacts and their positive and negative qualities? Just about every artefact worth carrying is radioactive these days. The Lead Container can completely seal the artefact inside, keeping you safe from its radiation, but also prevents you from using its other effects until removed. Without it, your ass would begin glowing and you'd die in less than a few hours of carrying even a single artefact. It's quite heavy, but better safe than sorry. If you actually want to use an artefact on yourself, it's best done with a more advanced container - scientists call them "Artefact Application Modules" - which will protect you from the rads without blocking its other qualities. Sidorovich sells all of this from time to time, but he usually saves the AAMs for more experienced stalkers.</text>
+		<text>Artefacts are usually found in radioactive areas, it's thus often recommended to use radioprotective drugs before going in such areas, here, have some. These will help you not accumulate radiations in your body, and thus avoid the use of anti-radiation drugs after you have been intoxicated. Be sure to use appropriate medications before and after entering anomalous fields. Some of them also emit specific particles, be it chemical toxic particles, electrical particles, psi waves, gravity-related waves, heat and fire. Be sure to be adequately protected before diving in anomalous field... I wouldn't like to find another bratan burnt to a crisp.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_6">
-		<text>Good to know. This container sure is heavy alright. What's next?</text>
+		<text>Good to know. What's next?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_7">
-		<text>Next is this bottle of Nemiroff. Like I said, almost all artefacts are radioactive these days, and even if you brought a Lead Container the anomaly field itself is still going to give you a little glow. This bottle will help you...eh...'pass' some of that glow out of your system.</text>
+		<text>Next is this bottle of Nemiroff. Like I said, almost all artefacts are radioactive these days. This bottle will help you...eh...'pass' some of that glow out of your system. Cigarettes also work, to some extent.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_8">
 		<text>Great, anything else?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_9">
-		<text>Oh yes, bolts. Never forget about these before jumping inside anomalous fields. Throw some around to find your way through the surrounding anomalies.
+		<text>Oh yes, bolts. Never forget about these before jumping inside anomalous fields. Throw some around to find your way through the surrounding anomalies. 
+		\nAlso don't be fooled, I heard there's an anomalous bread artefact that tend to aggregate around here from the rookies meals. That's not why we are here, focus on extracting a Jellyfish from the anomalous field.
 		\nThat's all. Let's go. I'll cover you from here on.</text>
 	</string>
 
@@ -557,13 +558,13 @@
 	
 <!-- Hip -->
 	<string id="devushka_1_start_0">
-		<text>Hello, sister.</text>
+		<text>Been better days, what do you need?</text>
 	</string>
 	<string id="devushka_1_start_1">
 		<text>I'd like to ask you some questions.</text>
 	</string>
 	<string id="devushka_1_start_2">
-		<text>There's not much I can tell you unless you're looking for work. I know a guy. He's rich in all senses of the word - silly and privileged in equal measure. He's out there, treating the Zone like a safari right now. He doesn't care for artefacts. All he wants to do is collect old guns... and shoot pigs with them. He even wants to find a scoped TOZ that has "seen some genuine Zone action," as a souvenir! And what he wants to pay is absolutely through the roof!\n \nThe problem is, the last guy I met who knew where to find a scoped TOZ is Hunter, and he died years ago. None of the big-time traders below the Barrier seem interested in finding one, either - they don't seem to think it's worth their time.\n \nBut if you find one, bring it to me along with 20 rounds of buckshot, and you'll be paid several times what it'd fetch you elsewhere.</text>
+		<text>There's not much I can tell you unless you're looking for work. I know a guy. He's rich in all senses of the word - silly and privileged in equal measure. He's out there, treating the Zone like a safari right now. He doesn't care for artefacts. All he wants to do is collect guns... and shoot pigs with them. He even wants to find a TOZ-194 that has "seen some genuine Zone action," as a souvenir! And what he wants to pay is absolutely through the roof!\n \nThe problem is, the last guy I met who knew where to find such TOZ is Hunter, and he died years ago. None of the big-time traders below the Barrier seem interested in finding one, either - they don't seem to think it's worth their time.\n \nBut if you find one, bring it to me along with 20 rounds of buckshot, and you'll be paid several times what it'd fetch you elsewhere.</text>
 	</string>
 	<string id="devushka_1_start_3">
 		<text>Sounds like a good deal to me. I'll do it.</text>
@@ -588,20 +589,20 @@
 		<text>Damn...so he died? Just like that?</text>
 	</string>
 	<string id="devushka_2_start_3">
-		<text>Pseudogiant, from what I can tell. Speaking of, would you mind picking up a can of tuna for me? It's just the right size, and I'm sure his next of kin will want the remains back in some sort of container.</text>
+		<text>Pseudogiant, from what I can tell. Speaking of, would you mind doing another job for me? Another client of mine has a weird fetish about... snork's fingers. Yes you heard correctly. Don't ask me why. He wants 40 snork's fingers, so that's more or less 8 hands. Could you bring me that?</text>
 	</string>
 	<string id="devushka_2_start_4">
-		<text>What the hell...? I mean, if I happen to find a tuna can...maybe I'll let you know. Cheers.</text>
+		<text>What the hell...? I mean, if I happen to find these snork's hands... ew... maybe, I'll let you know. Cheers.</text>
 	</string>
 	<string id="devushka_2_start_5">
-		<text>His stash contents aren't going to cut it, Hip. Either cough up the dough, or cough up some blood.</text>
+		<text>Is this a prank of some sort?! Get the fuck out of here, Hip.</text>
 	</string>
 	
 	<string id="devushka_0_dialog_0">
-		<text>Here, Hip. I found a can for you.</text>
+		<text>Here, Hip. I found these goddamn snork's fingers for you...</text>
 	</string>
 	<string id="devushka_0_dialog_1">
-		<text>MMm, the tuna is delicious! Hopefully I'll keep it down when collecting what's left of our late client.</text>
+		<text>Thanks. Just consider that you made the day of one tortured soul.</text>
 	</string>
 	
 	<string id="devushka_1_dialog_0">
@@ -651,7 +652,7 @@
 		<text>Some people should save that persistence for worthier causes. Luckily, there are some decent people around too. Wolf would treat me like any other rookie, which was great. Over time, I learned how to get on properly with other stalkers. At least, the ones that aren't high off their asses. Sadly, aside from him and Fanatic, life doesn't last long here for most. I could do with a few new friends.</text>
 	</string>	
 	<string id="devushka_2_dialog_10">
-		<text>Do you say this to everyone who brings you a can of tuna?</text>
+		<text>Do you say this to everyone who brings you snork's fingers?</text>
 	</string>
 	<string id="devushka_2_dialog_11">
 		<text>Oh, please. You know how hard it is to watch out for Bloodsuckers when it's just you on your lonesome? It's a lot harder than it looks, I promise you.</text>
@@ -660,7 +661,7 @@
 		<text>Are you planning on going somewhere then?</text>
 	</string>
 	<string id="devushka_2_dialog_17">
-		<text>Yeah. I've got some routine artefact runs to do. I've got a special order to fill sometime too - you can come with for that, if you like. Need someone to watch out for Bloodsuckers after all. You'd get a nice cut. Fifty percent should be more than fair.</text>
+		<text>Yeah. I've got some routine artefact runs to do. I've got a special order to fill sometime too - you can come with for that, if you like. Us ladies oughta stick together, right? Watch out for bloodsuckers sneaking up. You'd get a nice cut. Fifty percent should be more than fair.</text>
 	</string>
 	<string id="devushka_2_dialog_12">
 		<text>Alright, count me in.</text>
@@ -669,7 +670,7 @@
 		<text>No no, I'll leave you to it. Maybe I'll join you on another expedition.</text>
 	</string>
 	<string id="devushka_2_dialog_14">
-		<text>Great! Sidorovich has a special order for a Moonlight, a Fireball and a Wrenched. These aren't easy to find, so there's no real time limit to it - but the sooner, the better. I want to build a good rep for dependability, after all.</text>
+		<text>Great! Sidorovich has a special order for a Moonlight, a Lobster Eyes and a Gravi. These aren't easy to find, so there's no real time limit to it - but the sooner, the better. I want to build a good rep for dependability, after all.</text>
 	</string>
 	<string id="devushka_2_dialog_15">
 		<text>Alright, let's get started then!</text>
@@ -738,7 +739,7 @@
 		<text>Do you have any idea where we can find the artefacts Sidorovich wants?</text>
 	</string>
 	<string id="devushka_about_artefact_1">
-		<text>Of course. Moonlights can be found in Electro anomalies, Wrenched in Vortex anomalies and Fireballs in the Burner anomalies.</text>
+		<text>Of course. Moonlights can be found in Electro anomalies, Gravi in Vortex anomalies and Lobster Eyes in the Burner anomalies.</text>
 	</string>
 	<string id="devushka_about_artefact_2">
 		<text>Alright. And I suppose I'll stand guard while you dive into them?</text>

@@ -46,15 +46,13 @@
 		<text>Mutant Safari</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_text">
-		<text>Wolf tasked me to take care of some tourists, I'll make sure that they don't do anything stupid.</text>
+		<text>I have been tasked to lead a group of tourists on a mutant hunt.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_about">
-		<text>Yeah, there is this job that I don't want to do. How about you do it for me? I will properly pay you, all you've got to do is take care of some tourists who want to take a small stroll and shoot some mutants. But I warn you to take it seriously.\n
-		
-		\nThe last time that I had to take care of tourists again, it ended up incredibly wrong. One of the them ended up getting his face ripped apart after trying to pet a pseudodog. And I have no damn patience for this type of bullshit anymore, I'm telling you. I have even tried to convince Fanatic to do it for me, you know? He's always checking on everyone, trying his best to guide and help people. But he is aware that if something bad could happen to any tourist, Sidorovich begins to complain about how much we prejudice his pockets.\nDo me this favor, will you? Keep your eyes on them and if everything goes well, you'll have your pay as promised.</text>
+		<text>I have a group of tourists coming through and they want to see what it's like to kill a mutant. Take them out on a hunt, give them a thrill. Just make sure they don't get themselves killed. It's bad for business.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_finish">
-		<text>Job well done, stalker. I hope that they didn't cause you much trouble. Take your cut, as agreed. I'll notify Sidorovich that the tourists are safe, it'll speak highly of you.</text>
+		<text>Back from the hunt? Good. Here is your payment.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -180,67 +178,67 @@
 	</string>
 
 	<string id="esc_m_trader_task_2_name">
-		<text>A Bad Penny Always Turns Up</text>
+		<text>Contract Killer</text>
 	</string>
 	<string id="esc_m_trader_task_2_text">
-		<text>I've agreed to make Sidorovich a favor by getting rid of someone. Once I'm done, I should return for my reward.</text>
+		<text>I've agreed to remove a thorn from Sidorovich's side. Once I'm done, I should return for my reward.</text>
 	</string>
 	<string id="esc_m_trader_task_2_about">
-		<text>Do you see this list, stalker? These are the names of unwanted plotters, frauds, and slanderers - the kind of vermin I've had to deal with in the past. Many of them made the mistake of killing or robbing my couriers - or even harassing the tourists who pay me to get them into the Cordon, just to tarnish my image and business.\n \nIf you want the job, pick a name from the list, and I'll pass you their location. Once you are done, return for your reward, and rest assured I'll handsomely pay you for your help.</text>
+		<text>I have a list of outstanding bounties that need taking care of. These people tend to be unwanted plotters, frauds, slanderers... many of them have even roughed up my couriers or harassed my tourists in the past. In other words, they're all bad for business.\n \nPut one of these scumbags out of my misery, won't you? I'll be happy, the Zone will be a cleaner place, and you'll be well paid. Everyone wins!</text>
 	</string>
 	<string id="esc_m_trader_task_2_finish">
-		<text>That filthy freak is dead at last? Good riddance, stalker! Here's what I promised. Let it never be said that Sidorovich doesn't reward good work.</text>
+		<text>You got rid of that filthy freak? Good riddance! Here is what I promised, and let it never be said that uncle Sidorovich doesn't reward good work.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
 
 	<string id="esc_m_trader_task_3_name">
-		<text>Roller Mobster</text>
+		<text>Mobbing the Mob</text>
 	</string>	
 	<string id="esc_m_trader_task_3_text">
-		<text>Sidorovich wants me to send the bandits a message. I've agreed to help him out by collecting %s.</text>
+		<text>Sidorovich wants to send the bandit leaders a message. I've agreed to help him out by collecting %s.</text>
 	</string>		
 	<string id="esc_m_trader_task_3_about">
-		<text>Recently, some dandy bandit lord, up in Dark Valley, has decided to make another move on my business. He calls himself something stupid, like Sultana. What's next? Riesling? Muscadine?\n \nSo, let's send the bloated grape a message. Remind him who the real boss is. I know his men are skulking about - they usually make their way down to the Cordon through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd like you to do me a favour and off a few of them. Then, bring me their %ses, and I'll sort out the rest.</text>
+		<text>Listen, stalker. This is supposed to be a safe place for rookies to get to know the Zone. What they do get to know are the business ends of some bandit guns instead. The thugs disrupt our routes and steal our loot. Go teach them a lesson, will ya?</text>
 	</string>		
 	<string id="esc_m_trader_task_3_fetch_about">
-		<text>Yes, I've got a job that requires someone willing to get their hands dirty, hehe... If you have a gun and a steady aim - then you might find this job suitable. Bandits think they can show up here and mess with the local stalkers. They tend to prey on rookies, bleeding them dry and exploiting their lives just to make a quick buck.\n \nThere's no place for scum like that in the Cordon, understand? If you want to get yourself respected among loners, and also make some money - bring me a few bandit patches by putting some lowlife punks in the dirt.</text>
+		<text>Recently, some dandy bandit lord, up in Dark Valley, has decided to make another move on my business.  He calls himself something stupid, like Sultana. What's next? Riesling? Muscadine?\n \nSo, let's send the bloated grape a message. Remind him who the real boss is. I know his men are skulking about - they usually make their way down to the Cordon through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd like you to do me a favour and off a few of them. Then, bring me their %ses, and I'll sort out the rest. </text>
 	</string>		
 	<string id="esc_m_trader_task_3_fetch_finish">
-		<text>That's my girl! This should teach these punks to think twice before messing with free stalkers. Keep up the rhythm, and you'll see how your name will be feared among them. Here's your reward - you've earned it, lass.</text>
+		<text>Finally, you're back. You've got the badges? All right, here is your reward. I'll handle the rest.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) -->
 	
 	<string id="esc_2_12_stalker_wolf_task_1_name">
-		<text>Cleansing the Cordon</text>
+		<text>Eliminate the Mutant Threat from Cordon</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_text">
 		<text>I've agreed to clear out a mutant lair for Wolf, which will no doubt make life much easier for stalkers in Cordon. I'll need to return to him for payment once the job is complete.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_about">
-		<text>This may be the border of the Zone, but even here, the rookies have it tough. Bandits are only half the problem - they at least understand Russian. But the mutants... that's a whole different story. If you're a skilled huntress, there's a mutant lair nearby that needs to be cleared. Normally, mutants don't settle in the Cordon - it's too quiet here - but when they do, they become a threat to anyone less experienced. Head out and make sure that lair's gone. The rookies will be relieved to know it's taken care of, do it for them and I'd owe you.</text>
+		<text>Though this is the border of the Zone, newbies have it tough even here. The bandits are only half the problem - they at least understand Russian. But the mutants - it's really tough with them. If you're an able hunter, there's a mutant lair not far from here that needs to be cleared out. If you manage to do this, I'll owe you.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_finish">
-		<text>Thank you. This will make the rookies feel less hesitant. Hopefully, they'll take it as a chance to learn a thing or two before they end up as pig food. Ah, right... I said I'd owe you. Here's your payment.</text>
+		<text>Thank you, stalker. Maybe the rookies around here will take this chance to learn a thing or two before becoming pig food. Ah, right. I said I'd owe you. Here's your payment.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
 
 	<string id="esc_2_12_stalker_wolf_task_2_name">
-		<text>A Courier to Deliver</text>
+		<text>Spring Cleaning</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_text">
-		<text>One of Sidorovich's new couriers has been kidnapped by some brigands. I have agreed to rescue him and escort him back to Wolf.</text>
+		<text>Bandits have harrassed Cordon Loners for a long enough time: it's time for a payback. Purge all the Bandits from Cordon.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_about">
-		<text>Another one of Sidorovich's new delivery men got caught up in trouble. Usually, this doesn't happen because the few couriers Sidorovich hires are well-experienced and know how to navigate without drawing too much attention, but this time it's different - a group of scoundrels is holding him, and they threaten to use the rookie as mutant food if we don't pay them.\n \nBut we don't trust scum like that to keep their word. We know his location, and I was tasked with organizing his retrieval. The only thing I'm missing is a competent fighter capable of freeing him from those brigands.\n \nWill you do it? The pay will be good, and people here will respect you for saving him. Otherwise, I'll have to go myself, and I don't want to leave the village half-guarded.</text>
+		<text>Bandits have always been an issue around here in Cordon. Our brothers simply go wandering around the base to find themselves ambushed by bandits. If they are lucky enough they survive, but we have lost enough of our friends to the hands of these mongrels. It's time to make them pay: clean Cordon for the Bandits groups we have spotted. Will you do this? Otherwise, I'll need to go myself, and I don't want to leave the village only half-guarded.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_finish">
-		<text>Good to see you brought him back to camp safely. Sidorovich's man doesn't seem much worse for wear, and now he can square things up with his boss. As for you, your job's done. Now that it's all sorted, here's your reward.</text>
+		<text>Good job, stalker. Bandits will not annoy us anymore. Your job is done. Here's your reward. </text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -250,15 +248,13 @@
 		<text>Tourist Safari</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_3_text">
-		<text>Wolf trusts that I can guide some tourists, I will keep an eye on them and make sure that they don't do anything stupid.</text>
+		<text>Wolf has trusted me to guide some tourists on their mutant hunt.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_3_about">
-		<text>Yeah, there is this job that I don't want to do. How about you do it for me? I will properly pay you, all you've got to do is take care of some tourists who want to take a small stroll and shoot some mutants. But I warn you to take it seriously.\n
-		
-		\nThe last time that I had to take care of tourists again, it ended up incredibly wrong. One of the them ended up getting his face ripped apart after trying to pet a pseudodog. And I have no damn patience for this type of bullshit anymore, I'm telling you. I have even tried to convince Fanatic to do it for me, you know? He's always checking on everyone, trying his best to guide and help people. But he is aware that if something bad could happen to any tourist, Sidorovich begins to complain about how much we prejudice his pockets.\n \nDo me this favor, will you? Keep your eyes on them and if everything goes well, you'll have your pay as promised.</text>
+		<text>Some foreign tourists have paid Sidorovich good money to go on a light hunting trip through the Zone. They're actually not bad shots, but they don't know the first thing about anomalies or the kind of monsters we have around here. As if I wasn't babysitting enough people already.\n \nCould you be their guide? Nothing fancy - people like this are usually happy with a short stroll through Cordon with some shooting at the end. Just make sure they don't do anything stupid. It'd save me a little headache, and it's ample pay for simple work.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_3_finish">
-		<text>Job well done, stalker. I hope that they didn't cause you much trouble. Take your cut, as agreed. I'll notify Sidorovich that the tourists are safe, it'll speak highly of you.</text>
+		<text>Okay, looks like the tourists got what they wanted. Sidorovich will be pleased. As for you, here's your cut.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -274,7 +270,7 @@
 		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested I will give you more details. What do you say?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
-		<text>%s... That is what I need, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, girl.</text>
+		<text>%s... That is what I need, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, lady.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
 		<text>This is a fine weapon. I think my client will be pleased when I deliver this to him. Here is what I owe you.</text>
@@ -319,7 +315,7 @@
 		<text>%s are required by Xenotech to install basic equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
-		<text>I need a favour, girl. A lot of stalkers have come by here asking if I can tune their weapons a certain way but I can't. Between the bandits and the military, I've lost all my tools. If you could get me some more - even just some basic ones - I could start performing upgrades on equipment and maybe help the Cordon become more than just a place for rookies. So, girl, will you help me out?</text>
+		<text>I need a favour, lady. A lot of stalkers have come by here asking if I can tune their weapons a certain way but I can't. Between the bandits and the military, I've lost all my tools. If you could get me some more - even just some basic ones - I could start performing upgrades on equipment and maybe help the Cordon become more than just a place for rookies. So, girl, will you help me out?</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
 		<text>Great! I'll pay a real premium for the kit, too - much more than you'd get selling it to Sidorovich or any other trader. Once you have the goods, well, you know where to find me.</text>
@@ -354,10 +350,10 @@
 		<text>My business is booming now; more and more stalkers come to me when they need their weapon fine-tuned... but I know I could do better. You brought me a quality toolkit last time, but I need an even higher quality set. If you're up for it, I need a set of tools worthy of an expert. So, will you go find this for me?</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
-		<text>Thank you, lass. Remember, these are expert tools for calibration work. Try not to break them on a pseudogiant or something. But in all seriousness - I appreciate you agreeing to do this. Take care.</text>
+		<text>Thank you, stalker. Remember, these are expert tools for calibration work. Try not to break them on a pseudogiant or something. But in all seriousness - I appreciate you agreeing to do this. Take care.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
-		<text>You've proven yourself a true friend. You'll always be welcome in my workshop.</text>
+		<text>You've proven yourself a true friend, stalker. You'll always be welcome in my workshop.</text>
 	</string>
 	
 	
@@ -489,16 +485,16 @@
 
 
 	<string id="esc_2_12_stalker_fanat_task_1_name">
-		<text>Culling the Den</text>
+		<text>Destroy the Mutant Lair</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_1_text">
 		<text>I've agreed with Fanatic to destroy a mutant lair for the sake of the stalkers in Cordon.</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_1_about">
-		<text>Mutants in the Cordon aren't too bad - they give rookies something to overcome and learn from in the Zone. The problem is when they set up a lair. Ever seen a pack of angry boars? Last time, we had to blow them to pieces with grenades just to let rookies walk around freely. It was ugly, and I don't want that happening again for the safety of the rookies. Any mutant lair is a threat and needs to be cleared. Do that, and I'll make it worth your while.</text>
+		<text>Yeah, there's a small issue that needs sorting out. Cordon is supposed to be one of the safest places in the Zone, yet a new mutant lair has sprung up not too far from here. It needs to be cleared before it gets too large - otherwise, the rookies here will be in for a grave time. So, what do you say? Will you do it?</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_1_finish">
-		<text>I knew the job would suit you. You've got the look of a true huntress. Maybe Butcher could put your skills to use. Oh, and here's your reward - each stalker contributed a bit of cash to thank you.</text>
+		<text>Great work. Thanks to you, the rookies will have more room to breathe without being thrown into the deep end. Here's your payment - they all contributed a little to it. </text>
 	</string>
 
 	<string id="esc_2_12_stalker_fanat_task_2_name">
@@ -513,17 +509,16 @@
 	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
 		<text>Ah, you've found a Battery? Excellent! I'll let my comrades know the good news. I'm going to miss them terribly, but I know they'll also get another chance at an ordinary life out there. Thank you, stalker.</text>
 	</string>
-
 	
 <!-- Hip -->
 	<string id="toz34_sk2_return">
-		<text>Return the TOZ-34 Bizon and ammunition to Hip for payment</text>
+		<text>Return the TOZ-194 and ammunition to Hip for payment</text>
 	</string>
 	<string id="toz34_sk2_find">
-		<text>Find a TOZ-34 Bizon and ammunition for Hip's client</text>
+		<text>Find a TOZ-194 and ammunition for Hip's client</text>
 	</string>
 	<string id="toz34_return_descr">
-		<text>Hip told me a wealthy client is willing to pay an exhorbitant amount for a TOZ-34 Bizon and 20 12x70 rounds. Problem is, no famous trader south of the Barrier seems to stock them.</text>
+		<text>Hip told me a wealthy client is willing to pay an exhorbitant amount for a TOZ-194 and 20 12x76 Buckshot rounds. Problem is, no famous trader south of the Barrier seems to stock them.</text>
 	</string>
 	
 	<string id="artefacts_to_sidor_return">
@@ -533,7 +528,7 @@
 		<text>Find artefacts for Sidorovich</text>
 	</string>
 	<string id="artefacts_to_sidor_return_descr">
-		<text>Hip and I are on a collaborative artefact hunt for Sidorovich. He wants her to bring a Wrenched, Fireball, and Moonlight.</text>
+		<text>Hip and I are on a collaborative artefact hunt for Sidorovich. He wants her to bring a Gravi, Lobster Eyes, and Moonlight.</text>
 	</string>
 
 	<string id="go_to_barmen_1">

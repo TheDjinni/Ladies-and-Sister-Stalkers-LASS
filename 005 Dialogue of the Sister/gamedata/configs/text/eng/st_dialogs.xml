@@ -3,39 +3,39 @@
 
 <!-- Trading / Repair dialog -->
 	<string id="st_stalker_trade_dialog_init">
-		<text>Hey, would you want to trade our stuff? %c[d_orange][Trade]</text>
+		<text>Got anything to sell? %c[d_orange][Trade]</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_1">
-		<text>Damn, I would like some cigs now. Do you have some to spare?</text>
+		<text>Don't expect anything fancy. Here's what I got.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_2">
-		<text>Of course, here's the stuff I've got - now show me yours.</text>
+		<text>Alright.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_3">
-		<text>Uh... I don't have anything fancy at all, but okay.</text>
+		<text>Uh... sure thing.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_1">
-		<text>Do I look like a trader to you? Heck off.</text>
+		<text>Not really. Find someone else.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_2">
-		<text>Sorry, I don't have any money, and the very few things I have are of personal value.</text>
+		<text>Sorry, I'd prefer to hang on to my stuff.</text>
 	</string>
 	
 	<string id="st_trader_dialog_init">
-		<text>Hello, I'd like to buy something. %c[d_orange][Trade]</text>
+		<text>I want to buy some equipment. %c[d_orange][Trade]</text>
 	</string>
 	<string id="st_trader_dialog_reply_1">
-		<text>Alright, this is what I have for sale.</text>
+		<text>Sure thing.</text>
 	</string>
 	<string id="st_trader_dialog_reply_2">
-		<text>Take a look, this is everything I've got - if you don't like it, go somewhere else.</text>
+		<text>Take a look.</text>
 	</string>
 	<string id="st_trader_dialog_reply_3">
-		<text>Sounds good to me, here's what is for sale, I hope you find what you need.</text>
+		<text>Here's what I've got.</text>
 	</string>
 	
 	<string id="st_mechanic_dialog_init">
-		<text>My equipment needs some tweaking, anything you can do? %c[d_orange][Repair/Upgrade]</text>
+		<text>My equipment needs some tweaking. %c[d_orange][Tutorial]</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_1">
 		<text>I see, show me the equipment... And your money as well.</text>
@@ -44,33 +44,33 @@
 		<text>More crap to fix? Fine by me.</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_3">
-		<text>Let me check your gear first, then I will see what I can do.</text>
+		<text>Great, more work.</text>
 	</string>
 	
 	<string id="st_medic_dialog_init">
-		<text>Hey, medic! I need to buy you something! %c[d_orange][Trade]</text>
+		<text>I want to buy medical supplies. %c[d_orange][Trade]</text>
 	</string>
 	<string id="st_medic_dialog_reply_1">
-		<text>All yours for the taking, maybe with a medkit of mine you can save another stalker's life.</text>
+		<text>I'm low on supplies but here's what I have.</text>
 	</string>
 	<string id="st_medic_dialog_reply_2">
-		<text>I'm short on supplies today, but here's what I've got left.</text>
+		<text>Damn, I'm gonna run out of this shit soon enough... Anyway, here.</text>
 	</string>
 	<string id="st_medic_dialog_reply_3">
-		<text>Alright, give them proper use and don't waste them.</text>
+		<text>Alright, don't waste the goods.</text>
 	</string>
 	
 	<string id="st_bartender_dialog_init">
-		<text>Got anything to sell? %c[d_orange][Trade]</text>
+		<text>What you got to sell? %c[d_orange][Trade]</text>
 	</string>
 	<string id="st_bartender_dialog_reply_1">
-		<text>I have food, water and cigs, all in good condition.</text>
+		<text>Food, drinks, a smoke... what do you want?</text>
 	</string>
 	<string id="st_bartender_dialog_reply_2">
-		<text>Feeling hungry, lass? Just check what I've got to sell.</text>
+		<text>Hungry? I've got just the thing...</text>
 	</string>
 	<string id="st_bartender_dialog_reply_3">
-		<text>Nothing better than a cold vodka, right?</text>
+		<text>What would you like to drink today? Vodka, or Putinka?</text>
 	</string>
 
 <!-- Selling important documents -->
@@ -111,7 +111,7 @@
 		<text>Look at you, a little brave hero who came across these out of the sudden. I will be nice today and ignore these details. I know people who would kill for such documents, this is something that has been hidden for long fucking years you know. %s RU, and I advice you to think carefully.</text>
 	</string>
 	<string id="st_trade_important_documents_answer_zat_b7_bandit_boss_sultan">
-		<text>Nice job, girl. Next time you "find" such a thing, don't forget to give me a visit.</text>
+		<text>Nice job girl, next time you "find" such a thing. Don't forget to give me a visit.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_mar_smart_terrain_base_stalker_leader_marsh">
@@ -191,21 +191,19 @@
 
 <!-- Paid Companions -->
 	<string id="st_paid_companion_dialog_text_0">
-		<text>Hey, I am in need of an escort squad, could you help me?</text>
+		<text>I'm looking for an escort squad, interested?</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_1">
-		<text>Sure thing, but it does not come for free. It'll be %s rubles if you want the service for 24 hours. And if one day isn't enough for you, we can change it to 48 hours instead, but the price will be a bit higher - %s rubles.\n
-		
-		\nBut there's a condition: If you plan to get inside one of these underground places or enter Monolith territory... then you are on your own, we don't want to deal with bullshit like that. Got it right, gal?</text>
+		<text>For an upfront payment I will protect you. I want %s for joining you for 24 hours, %s for 48 hours. Be warned that if you are travelling to some of those laboratories or Monolith controlled areas then you're on your own, got it?</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_2">
-		<text>Huh? Do I look like a babysitter to you? Get lost, rookie.</text>
+		<text>Sorry, we have other jobs already.</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_3">
-		<text>Got it, 24 hours seems perfect. %c[d_orange][%s RU]</text>
+		<text>24 hours is all that I need %c[d_orange][%s RU].</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_4">
-		<text>Understood, two days are enough for me. Here's the cash. %c[d_orange][%s RU]</text>
+		<text>Okay, two days %c[d_orange][%s RU].</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_5">
 		<text>Actually... I changed my mind.</text>
@@ -214,25 +212,25 @@
 		<text>Let's move.</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_7">
-		<text>Good to know that you trust us to escort you - just keep in mind that we aren't machines, okay? You'll have to share the food and drinks with us, hehe.</text>
+		<text>Let's move.</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_8">
-		<text>Then why the heck did you ask me in the first place?!</text>
+		<text>Alright then.</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_9">
-		<text>Okay, I don't need you anyway.</text>
+		<text>Alright.</text>
 	</string>
 	<string id="st_paid_companion_contract_timeout_1">
 		<text>The contract is over. You're on your own now, stay safe.</text>
 	</string>
 	<string id="st_paid_companion_contract_timeout_2">
-		<text>My service is fulfilled, and I'm going back now. Take care.</text>
+		<text>My service are fulfilled, I'm going back now. Take care.</text>
 	</string>
 	<string id="st_paid_companion_danger_1">
 		<text>That's not what we've agreed on. Sorry, I have no plans for suicide today. The deal is over.</text>
 	</string>
 	<string id="st_paid_companion_danger_2">
-		<text>Are you retarded or something, bitch?! Did you forget already about the condition?! I'm not going to these places, I'm getting the hell out of this shithole.</text>
+		<text>Seriously?! What did I tell you when you accepted my assistance? I'm not going to these places, I'm outta here.</text>
 	</string>
 
 <!-- Medic general -->
@@ -261,16 +259,16 @@
 		<text>Hmm... Hands and feet are okay... head is in place... Yeah, you're alright.</text>
 	</string>
 	<string id="st_dm_medic_general_text_10_3">
-		<text>Lady, you're healthier than a bloodsucker.</text>
+		<text>Honey, you're healthier than a bloodsucker.</text>
 	</string>
 	<string id="st_dm_medic_general_text_10_4">
 		<text>Don't be ridiculous. You're okay.</text>
 	</string>
 	<string id="st_dm_medic_general_text_2">
-		<text>Please, heal my wounds... %c[d_orange][1,850 RU]</text>
+		<text>Heal my wounds. %c[d_orange][1,850 RU]</text>
 	</string>
 	<string id="st_dm_medic_general_text_3">
-		<text>I need you to get the radiation out of me, I think that I'm going to faint! %c[d_orange][1,480 RU]</text>
+		<text>Get the radiation out of me. %c[d_orange][1,480 RU]</text>
 	</string>
 	<string id="st_dm_medic_general_text_4">
 		<text>Fuck it, I need to be in a good shape. %c[d_orange][3,350 RU]</text>
@@ -289,16 +287,16 @@
 
 <!-- Unlock PDAs -->
 	<string id="st_encrypted_pda_text_0">
-		<text>Hey... I found this encrypted PDA, it doesn't seem to respond at all. Can you unlock it for me? Maybe it contains information about a stash.</text>
+		<text>I have an encrypted PDA, it doesn't seem to respond. Can you work it out for me?</text>
 	</string>
 	<string id="st_encrypted_pda_text_1">
 		<text>If you're willing to show some cash, sure. 500 RU for every PDA I can unlock.</text>
 	</string>
 	<string id="st_encrypted_pda_text_2">
-		<text>Sounds fair, here take the cash.</text>
+		<text>Fair enough, here.</text>
 	</string>
 	<string id="st_encrypted_pda_text_3">
-		<text>You know what? I changed my mind.</text>
+		<text>Nevermind...</text>
 	</string>
 	<string id="st_encrypted_pda_text_4">
 		<text>Here, you can use these now. Have fun.</text>
@@ -391,13 +389,13 @@
 	
 <!-- Guide Job -->
 	<string id="st_jg_1">
-		<text>Hey, I saw your message. Need a guide?</text>
+		<text>I heard your message. Need a guide?</text>
 	</string>
 	<string id="st_jg_1_alt">
 		<text>About the job...</text>
 	</string>
 	<string id="st_jg_2">
-		<text>Yes, are you willing to help me?</text>
+		<text>Yes, are you willing to help?</text>
 	</string>
 	<string id="st_jg_2_alt">
 		<text>What is it?</text>
@@ -461,27 +459,27 @@
 	</string>
 	
 	<string id="st_jg_cancel_1">
-		<text>Great. Thanks for your pointless effort, cunt.</text>
+		<text>Great. Thanks for nothing, cunt.</text>
 	</string>
 	<string id="st_jg_cancel_2">
-		<text>I don't know what I have done to deserve this...</text>
+		<text>What a shame.</text>
 	</string>
 	<string id="st_jg_cancel_3">
-		<text>You should stop pretending that you care to help people, you clearly are a bad person.</text>
+		<text>Thanks for wasting my time.</text>
 	</string>
 	
 <!-- Debt / Loan -->
 	<string id="debt_register_0">
-		<text>%s, I'm in a desperate situation, could you please lend me some money? I promise that I will pay you back!</text>
+		<text>%s, can you lend me some money?</text>
 	</string>
 	<string id="debt_register_1">
-		<text>You probably need the money for a good reason... but so do I. You’ll return fifty percent of the amount plus the amount itself, and keep in mind that I will not sell you anything until you pay back your debt, is that clear?</text>
+		<text>You probably need the money for a good reason...but so do I. You’ll return fifty percent of the amount plus the amount itself, and keep in mind that my stuff won’t be available to you until you pay back your debt.</text>
 	</string>
 	<string id="debt_register_2">
-		<text>Yes, I understand... All I need for now it's %c[d_orange][5,000 RU].</text>
+		<text>I just need %c[d_orange][5,000 RU].</text>
 	</string>
 	<string id="debt_register_3">
-		<text>Thank you! I want %c[d_orange][10,000 RU].</text>
+		<text>Ok, give me %c[d_orange][10,000 RU].</text>
 	</string>
 	<string id="debt_register_4">
 		<text>I want %c[d_orange][15,000 RU].</text>
@@ -1229,10 +1227,10 @@
 		<text>At the plant, girl, where else? It's not exactly lively in there, but the warehouses will cheer you up. It's a bit safer and you're bound to find some decent tools in there.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_165">
-		<text>That's a good question, girl. Let's think about this one. Where do you find tools outside the Zone? Now, if you got half a brain, you buy them in a store... If you don't, you look for the tools and a brain in a workshop. Right? It's the same thing in the Zone - you have to look in the same places. It's that simple, stalker!</text>
+		<text>That's a good question, lady. Let's think about this one. Where do you find tools outside the Zone? Now, if you got half a brain, you buy them in a store... If you don't, you look for the tools and a brain in a workshop. Right? It's the same thing in the Zone - you have to look in the same places. It's that simple, stalker!</text>
 	</string>
 	<string id="about_quests_dialog_freedom_166">
-		<text>Tools? Listen, girl, is that code for something? There're no pigs here or anything, you can speak freely... Oh, you're serious? In that case I really don't know.</text>
+		<text>Tools? Listen, lady, is that code for something? There're no pigs here or anything, you can speak freely... Oh, you're serious? In that case I really don't know.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_169">
 		<text>Well, I heard that one of our boys was looking for tools, and he got into the train under the bridge. Apparently, there's a Tesla there... Anyway, he said it wasn't fun in there... Why am I telling you this? Well, he said he saw tools lying around, but decided to leave them 'cause it wasn't safe.</text>
@@ -1286,10 +1284,10 @@
 		<text>Who could be interested in maps of the area between Zaton and Jupiter?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_301">
-		<text>Pilot for sure, girl. He's the main free stalker guide around here - if you want to talk maps, he's the one you want.</text>
+		<text>Pilot for sure, lady. He's the main free stalker guide around here - if you want to talk maps, he's the one you want.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_31">
-		<text>Chill, girl. There ain't no cops, no jar-heads and no friggin' militia around here - you're as safe as can be in the Zone.</text>
+		<text>Chill, honey. There ain't no cops, no jar-heads and no friggin' militia around here - you're as safe as can be in the Zone.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_35">
 		<text>No, but some fellas told me they saw an army unit crawling through the mine field by the helipads. Those fellas thought about helping them but decided against it. The jar-heads are an unpredictable breed, you never know when they'll snap and shoot you in the back.</text>
@@ -1373,7 +1371,7 @@
 		<text>I found a whole bloodsucker lair nearby. What are we gonna do?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_91">
-		<text>Girl, you gotta warn the free stalkers - they've got their main camp around here, after all. The Zone's wildlife is valuable, to be sure, but I'm more concerned about the people in this place.</text>
+		<text>Jeez, you gotta warn the free stalkers - they've got their main camp around here, after all. The Zone's wildlife is valuable, to be sure, but I'm more concerned about the people in this place.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_98">
 		<text>Okay, forget about it.</text>
@@ -1402,7 +1400,7 @@
 		<text>Well, they say that wounds heal instantly there and your energy is replenished in minutes... They say no disease or sickness can last in the Oasis, not even radiation poisoning! The one thing I know for sure, though, is its whereabouts... Wanna know? It's in the centre of the Zone! But you gotta keep this between us, not a word to anyone!</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_113">
-		<text>I heard that any mutant you meet there will just walk on by without so much as looking at you. They also say that there's an artefact there called the Heart of the Oasis... Nobody knows what it does exactly, but one thing's for sure: you shouldn't touch it. Anyone who takes it won't have no place in the Zone no more... Location? Girl, everyone knows it's in Pripyat under the Ferris wheel! I mean, where else would it be?</text>
+		<text>I heard that any mutant you meet there will just walk on by without so much as looking at you. They also say that there's an artefact there called the Heart of the Oasis... Nobody knows what it does exactly, but one thing's for sure: you shouldn't touch it. Anyone who takes it won't have no place in the Zone no more... Location? Lady, everyone knows it's in Pripyat under the Ferris wheel! I mean, where else would it be?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_12">
 		<text>Ever meet a stalker called Magpie?</text>
@@ -1582,10 +1580,10 @@
 		<text>Well, rumour has it that there are secret tunnels to Pripyat underneath the Jupiter plant... The thing is, these rumours usually get told after the second round, and then Jupiter is such a friggin' nightmare that nobody dares goes near it.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_43">
-		<text>How should I know, girl? You got any easier questions for me? All I can say is that you should find Pilot and talk to him - if anyone can help you, it's him.</text>
+		<text>How should I know, honey? You got any easier questions for me? All I can say is that you should find Pilot and talk to him - if anyone can help you, it's him.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_44">
-		<text>Hah, if I knew the way to Pripyat I wouldn't be here. Why do you think I went towards the centre of the Zone? Pripyat is full of artefacts, girl! Whoever gets there first is gonna be living the high life!</text>
+		<text>Hah, if I knew the way to Pripyat I wouldn't be here. Why do you think I went towards the centre of the Zone? Pripyat is full of artefacts, lady! Whoever gets there first is gonna be living the high life!</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_5">
 		<text>Can you suggest anyone that's not too tied down who'd be willing to make a move for Pripyat?</text>
@@ -1600,7 +1598,7 @@
 		<text>You know Vano over at Yanov station? He's an honest fella, a good stalker and gullible as hell. Now there's a cat who's better off around anomalies than people - so long as he's here there will always be someone to take advantage of him.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_54">
-		<text>Listen lass, I heard that a squad was spotted by the dry lake south of the AA complex... Apparently they're not the usual stalkers or Freedom or Duty - they're Monolith men! So if you need someone to go to Pripyat with, they're just the ticket. Haha, you do realize I'm kidding, right?</text>
+		<text>Listen girl, I heard that a squad was spotted by the dry lake south of the AA complex... Apparently they're not the usual stalkers or Freedom or Duty - they're Monolith men! So if you need someone to go to Pripyat with, they're just the ticket. Haha, you do realize I'm kidding, right?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_55">
 		<text>You know Strider, the leader of the new Freedom squad? If you saw his miserable kisser, you'd know for yourself that Yanov ain't the place for him. You should try speaking to him. He might actually go for it.</text>
@@ -1666,7 +1664,7 @@
 		<text>I heard about a few crashing... I don't know the details - gossip ain't my thing. Sorry if that doesn't help you much.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_28">
-		<text>Girl, I've got other shit to worry about without your choppers... I mean, I bet crashing a heli hurts like hell, but other than that I don't know what to say.</text>
+		<text>Honey, I've got other shit to worry about without your choppers... I mean, I bet crashing a heli hurts like hell, but other than that I don't know what to say.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_27">
 		<text>What are you talking about, punk? You have to smoke some real hardcore shit to see a chopper around here, cause real ones don't got nothin' to do in this place.</text>
@@ -1708,7 +1706,7 @@
 		<text>I heard some stalkers talk about this man with connections, Nimble or something. He can get you almost anything. You know: gear, shooters, shit like that... not dope. Hangs out at Skadovsk, if you need him.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_502">
-		<text>A good question, girl... We don't ever wear those here in Freedom... I'd ask stalkers at Zaton if I were you. There might be someone there who runs that sort of business.</text>
+		<text>A good question, lady... We don't ever wear those here in Freedom... I'd ask stalkers at Zaton if I were you. There might be someone there who runs that sort of business.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_503">
 		<text>Heh, whatcha need that crap for? It ain't no good in action. Then again... I guess it can be of some use. Makes breathing easier, and the sun doesn't get in your eyes as much... I might go for one of those myself. Hey, do you know where I could get one?</text>
@@ -1723,7 +1721,7 @@
 		<text>Let me think... There used to be a man like that over at Zaton, went by Nimble. Try and see if he's still there. I heard he specializes in up-scale items.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_503">
-		<text>Girl, you talk about it like it's office supplies or something... No one knows for sure. Pieces like that are few and far between... Consider yourself lucky if you snatch one.</text>
+		<text>Honey, you talk about it like it's office supplies or something... No one knows for sure. Pieces like that are few and far between... Consider yourself lucky if you snatch one.</text>
 	</string>
 
 	<!-- Call of Chernobyl -->
@@ -1830,13 +1828,13 @@
 		<text>Great. I really need someone's help.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_alone_3">
-		<text>Bad-ass, girl. Thanks.</text>
+		<text>Bad-ass, lady. Thanks.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_bad_alone_1">
 		<text>Okay. Thanks anyway...</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_bad_alone_2">
-		<text>Woah, girl! What the hell is your problem?</text>
+		<text>Woah, lady! What the hell is your problem?</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_1">
 		<text>That's great to hear! Come on, guys!</text>
@@ -1917,7 +1915,7 @@
 		<text>You got it.</text>
 	</string>
 	<string id="axr_phrase_companion_acknowledge_2">
-		<text>Alright, girl.</text>
+		<text>Alright, lady.</text>
 	</string>
 	<string id="axr_phrase_companion_acknowledge_3">
 		<text>Sure, what do you want me to do?</text>
