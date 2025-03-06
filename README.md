@@ -5,7 +5,7 @@
 
 ## Description
 
-Ladies and Sister Stalkers (LASS) project is designed specifically for G.A.M.M.A. It replaces the player outfits and first person arms and legs with new female models, adds brand new player character voice acting with female English and Ukrainian voice actors, and overhauls the text dialogue to reflect female player.
+Ladies and Sister Stalkers (LASS) project is designed specifically for G.A.M.M.A. (no support is available for non-GAMMA installs at this time). It replaces the player outfits and first person arms and legs with new female models, adds brand new player character voice acting with female English and Ukrainian voice actors, and overhauls the text dialogue to reflect the fact that the player is female.
 
 Due to PaintThinner stepping back from modding, recent updates have been made by a small team of volunteers.
 
@@ -17,9 +17,8 @@ To install mods to GAMMA, simply open up Mod Organizer 2 and hit ctrl+m on your 
 
 ### Required
 
-[War nymph](https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph). Install as per above. Place above LASS in Mod Organizer 2. 
-
-LASS; download Ladies-and-Sister-Stalkers-LASS.zip from the [latest release](https://github.com/TheDjinni/Ladies-and-Sister-Stalkers-LASS/releases). Install as per above. Ensure LASS is below War Nymph.
+<ol><li>[War nymph](https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph). Install as per above. Place above LASS in Mod Organizer 2.</li>
+<li>LASS; download "Ladies-and-Sister-Stalkers-LASS.zip" from the [latest release](https://github.com/TheDjinni/Ladies-and-Sister-Stalkers-LASS/releases). Install as per above. Ensure LASS is below War Nymph.</li>
 
 That's it, nothing else is required. If you got here via the GAMMA discord and you've seen other required files or assets being recommended, it's <i>probably</i> old news and you don't need them.
 
@@ -42,4 +41,4 @@ The great voice acting provided by [Tetiana Voloshyna](https://voice123.com/voic
 
 ### Community Update Team
 
-<ul><li>Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models</li><li>Cat lover for commissioning the aforementioned voice acting out of his own pocket, as well as additional female portraits</li><li>pancake for supplementing missing sound effects with AI-generated ones and providing an AI-generated Russian language option</li><li>folk for extensive dialogue edits to support female-gendered dialogue</li><li>TheDjinni for organizing and pushing the update alongside minor bugfixes.</li></ul>
+<ul><li>Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models</li><li>Cat lover for commissioning the aforementioned voice acting out of his own pocket, as well as commissioning (yet-to-be-released) female portraits</li><li>folk and TheDjinni for extensive dialogue edits to support female-gendered dialogue</li><li>TheDjinni for organizing this update alongside minor bugfixes.</li></ul>
