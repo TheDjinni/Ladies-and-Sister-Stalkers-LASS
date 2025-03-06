@@ -19,7 +19,7 @@ To install mods to GAMMA, simply open up Mod Organizer 2 and hit ctrl+m on your 
 
 [War nymph](https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph). Install as per above. Place above LASS in Mod Organizer 2. 
 
-LASS; download Ladies-and-Sister-Stalkers-LASS.zip from the [Latest release](https://github.com/TheDjinni/Ladies-and-Sister-Stalkers-LASS/releases). Install as per above. Ensure LASS is below War Nymph.
+LASS; download Ladies-and-Sister-Stalkers-LASS.zip from the [latest release](https://github.com/TheDjinni/Ladies-and-Sister-Stalkers-LASS/releases). Install as per above. Ensure LASS is below War Nymph.
 
 That's it, nothing else is required. If you got here via the GAMMA discord and you've seen other required files or assets being recommended, it's <i>probably</i> old news and you don't need them.
 
