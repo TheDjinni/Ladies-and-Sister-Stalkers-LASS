@@ -13,11 +13,17 @@ This mod is designed to supplement and improve upon [Warnymph](https://www.moddb
 
 ## Installing in MO2
 
+To install mods to GAMMA, simply open up Mod Organizer 2 and hit ctrl+m on your keyboard, then select the zip file of the mod you want to install.
+
 ### Required
 
-War Nymph (see above). Place above LASS in Mod Organizer 2.
+[War nymph](https://www.moddb.com/mods/stalker-anomaly/addons/war-nymph). Install as per above. Place above LASS in Mod Organizer 2. 
 
-LASS
+LASS; download Ladies-and-Sister-Stalkers-LASS.zip from the [Latest release](https://github.com/TheDjinni/Ladies-and-Sister-Stalkers-LASS/releases). Install as per above. Ensure LASS is below War Nymph.
+
+That's it, nothing else is required. If you got here via the GAMMA discord and you've seen other required files or assets being recommended, it's <i>probably</i> old news and you don't need them.
+
+LASS contains the following modules:
 
 <ul><li>001 Sister of the Zone - Player leg and body models</li><li>002 Arms of the Sister - Player arm and hand models</li><li>003 Sounds of the Sister - Sounds and script files</li><li>004A Voices of the Sister - Ukranian Player Voice</li><li>004B Voices of the Sister - English Player Voice</li><li>005 Dialogue of the Sister - Text edits for female player gender</li></ul>
 
