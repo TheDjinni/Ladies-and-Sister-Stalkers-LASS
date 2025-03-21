@@ -1,0 +1,45 @@
+<w>
+	<file name = "ui\female_portrets\portret_female_bandit_seq\ui_animated_bandit">
+		<texture id = "ui_portret_animated_female_bandit" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_csky_seq\ui_animated_csky_portret">
+		<texture id = "ui_portret_animated_female_csky" x="0" y="0" width="122" height="69" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_duty_seq\ui_animated_duty_portret">
+		<texture id = "ui_portret_animated_female_dolg" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_ecologist_seq\ui_animated_ecologist_portret">
+		<texture id = "ui_portret_animated_female_ecolog" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_freedom_seq\ui_animated_freedom_portret">
+		<texture id = "ui_portret_animated_female_freedom" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_loner_seq\ui_animated_loner_portret">
+		<texture id = "ui_portret_animated_female_stalker" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_military_seq\ui_animated_military_portret">
+		<texture id = "ui_portret_animated_female_army" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_monolith_seq\ui_animated_monolith_portret">
+		<texture id = "ui_portret_animated_female_monolith" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_monolith_alt_seq\ui_animated_monolith_alt_portret">
+		<texture id = "ui_portret_animated_female_monolith_alt" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_no_data_seq\ui_animated_no_data_portret">
+		<texture id = "ui_portret_animated_female_no_data" x="0" y="0" width="122" height="86" />
+		<texture id = "ui_portret_animated_female_zombied" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_renegade_seq\ui_animated_renegade_portret">
+		<texture id = "ui_portret_animated_female_renegade" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_greh_seq\ui_animated_greh_portret">
+		<texture id = "ui_portret_animated_female_greh" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_unisg_seq\ui_animated_unisg_portret">
+		<texture id = "ui_portret_animated_female_isg" x="0" y="0" width="122" height="86" />
+	</file>
+	<file name = "ui\female_portrets\portret_female_mercenary_seq\ui_animated_mercenary_portret">
+		<texture id = "ui_portret_animated_female_killer" x="0" y="0" width="122" height="86" />
+	</file>
+</w>

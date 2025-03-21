@@ -1,0 +1,15 @@
+<string_table>
+    <string id="ui_mcm_menu_animated_female_portrait_mcm">
+        <text>Женский портрет</text>
+    </string>
+    
+    <string id="ui_mcm_animated_female_portrait_mcm_use_no_data">
+        <text>Использовать иконку без фракции</text>
+    </string>
+    <string id="ui_mcm_animated_female_portrait_mcm_use_alt_monolith">
+        <text>Использовать альтернативную иконку монолита</text>
+    </string>
+    <string id="ui_mcm_animated_female_portrait_mcm_disable_mod">
+        <text>Включить перед удалением мода</text>
+    </string>
+</string_table>
