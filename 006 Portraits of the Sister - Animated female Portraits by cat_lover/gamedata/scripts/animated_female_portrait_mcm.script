@@ -1,0 +1,101 @@
+--[[
+    Unique faction-dependent portraits for actor that override vanilla
+
+    Author: HarukaSai
+    
+    19/03/2025
+]]
+
+MCM_SETTINGS = {}
+
+function cache_old_character_icon()
+    if (not alife_storage_manager.get_state().haruka_cached_character_icon) then
+        alife_storage_manager.get_state().haruka_cached_character_icon = db.actor_binder.character_icon
+    end
+end
+
+function get_character_icon()
+    if MCM_SETTINGS.use_no_data then
+        return "ui_portret_animated_female_no_data"
+    end
+
+    local community = get_actor_true_community()
+
+    if community == "monolith" and MCM_SETTINGS.use_alt_monolith then
+        return "ui_portret_animated_female_monolith_alt"
+    else
+        return "ui_portret_animated_female_" .. community
+    end
+end
+
+function set_character_icon(icon)
+    db.actor:set_character_icon(icon)
+    db.actor_binder.character_icon = icon
+end
+
+function revert_character_icon()
+    if alife_storage_manager.get_state().haruka_cached_character_icon then
+        set_character_icon(alife_storage_manager.get_state().haruka_cached_character_icon)
+    else
+        set_character_icon("ui_inGame2_no_data")
+    end
+    
+    alife_storage_manager.get_state().haruka_cached_character_icon = nil
+end
+
+function actor_on_first_update()
+    cache_old_character_icon()
+    set_character_icon(get_character_icon())
+end
+
+local mcm_keybinds = ui_mcm and ui_mcm.key_hold
+local options = { id = script_name(), sh = true, gr = {
+    { id = "title", type= "slide", link= "ui_options_slider_player", text="ui_mcm_menu_animated_female_portrait_mcm", size= {512,50},spacing= 20 },
+    { id = "use_no_data", type = "check", val = 1, def = false},
+    { id = "use_alt_monolith", type = "check", val = 1, def = false},
+    { id = "disable_mod", type = "check", val = 1, def = false},
+}}
+
+function on_mcm_load()
+    return options
+end
+
+function load_defaults()
+    for _, option in pairs(options.gr) do
+        if option.val then
+            MCM_SETTINGS[option.id] = option.def
+        end
+    end
+end
+
+function on_option_change(mcm)
+    ui_options.set("gameplay/general/outfit_portrait", false) -- force disable the outfit portait option
+
+    if (not mcm) then
+        return
+    end
+
+    for _, option in pairs(options.gr) do
+        if option.val then
+            MCM_SETTINGS[option.id] = ui_mcm.get(strformat("%s/%s", options.id, option.id))
+        end
+    end
+
+    if level.present() and (db.actor ~= nil) and db.actor:alive() then
+        if MCM_SETTINGS.disable_mod then
+            revert_character_icon()
+            return
+        end
+
+        cache_old_character_icon()
+        set_character_icon(get_character_icon())
+    end
+end
+
+function on_game_start()
+    RegisterScriptCallback("actor_on_first_update", actor_on_first_update)
+    RegisterScriptCallback("on_option_change", on_option_change)
+
+    load_defaults()
+    on_option_change(mcm_keybinds)
+end

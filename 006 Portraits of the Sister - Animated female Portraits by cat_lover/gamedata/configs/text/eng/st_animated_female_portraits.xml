@@ -1,0 +1,15 @@
+<string_table>
+    <string id="ui_mcm_menu_animated_female_portrait_mcm">
+        <text>Female portait</text>
+    </string>
+    
+    <string id="ui_mcm_animated_female_portrait_mcm_use_no_data">
+        <text>Use factionless icon</text>
+    </string>
+    <string id="ui_mcm_animated_female_portrait_mcm_use_alt_monolith">
+        <text>Use alternative monolith portait</text>
+    </string>
+    <string id="ui_mcm_animated_female_portrait_mcm_disable_mod">
+        <text>Tick before uninstall</text>
+    </string>
+</string_table>

@@ -24,9 +24,9 @@ That's it, nothing else is required. If you got here via the GAMMA discord and y
 
 LASS contains the following modules:
 
-<ul><li>001 Sister of the Zone - Player leg and body models</li><li>002 Arms of the Sister - Player arm and hand models</li><li>003 Sounds of the Sister - Sounds and script files</li><li>004A Voices of the Sister - Ukranian Player Voice</li><li>004B Voices of the Sister - English Player Voice</li><li>005 Dialogue of the Sister - Text edits for female player gender</li></ul>
+<ul><li>001 Sister of the Zone - Player leg and body models</li><li>002 Arms of the Sister - Player arm and hand models</li><li>003 Sounds of the Sister - Sounds and script files</li><li>004A Voices of the Sister - Ukranian Player Voice</li><li>004B Voices of the Sister - English Player Voice</li><li>005 Dialogue of the Sister - Text edits for female player gender</li><li>006 Portraits of the Sister - Animated female portraits</li></ul>
 
-Highly recommend checking all of the above, except choose either 004A (for Ukranian voice acting), or 004B (for English voice acting).
+Highly recommend checking all of the above, except choose either 004A (for Ukranian voice acting), or 004B (for English voice acting). Note that if anyone would like to contribute text edits for languages other than English, please contact TheDjinni in the [LASS thread in the GAMMA discord](https://discord.com/channels/912320241713958912/1112579306309292072/1112579306309292072).
 
 ### Optional
 
@@ -41,4 +41,4 @@ The great voice acting provided by [Tetiana Voloshyna](https://voice123.com/voic
 
 ### Community Update Team
 
-<ul><li>Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models</li><li>Cat lover for commissioning the aforementioned voice acting out of his own pocket, as well as commissioning (yet-to-be-released) female portraits</li><li>folk and TheDjinni for extensive dialogue edits to support female-gendered dialogue</li><li>TheDjinni for organizing this update alongside minor bugfixes.</li></ul>
+<ul><li>Maka for hundreds of hours spent in blender providing additional fixes and tweaks to first person player models</li><li>Cat lover for commissioning voice acting and female portraits out of his own pocket</li><li>folk and TheDjinni for extensive english-language dialogue edits to support female-gendered dialogue</li><li>TheDjinni for organizing this update alongside minor bugfixes.</li></ul>
